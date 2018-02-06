@@ -4,6 +4,7 @@ Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight Coins
 Host your own assets on your Server from assets branch or use https://cryptown.netlify.com/media.js
 
 Stratum Proxy for all pools: ?proxy=ws://crypto-webminer.com:8897
+Stratum SSL Proxy for all pools: ?proxy=wss://crypto-webminer.com:8902
 
 Simple Pool change: ?pool=Your_Favorite_Pool:PortNr
 
