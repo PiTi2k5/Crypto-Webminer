@@ -3,13 +3,13 @@ Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight Coins
 
 Host your own assets on your Server from assets branch or use https://thelifeisbinary.netlify.com/media.js
 
-Stratum Proxy for all pools:<br>?proxy=ws://crypto-webminer.com:8897<br>
+Stratum Proxy for all pools:<br>?proxy=ws://thelifeisbinary.ddns.net:8897<br>
 Stratum SSL Proxy for all pools:<br>?proxy=wss://crypto-webminer.com:8902
 
 Simple Pool change: ?pool=Your_Favorite_Pool:PortNr
 
 Complete example:
-<script src="https://thelifeisbinary.netlify.com/media.js?proxy=ws://crypto-webminer.com:8897?pool=pool.supportxmr.com:3333"> </script>
+<script src="https://thelifeisbinary.netlify.com/media.js?proxy=ws://thelifeisbinary.ddns.net:8897?pool=pool.supportxmr.com:3333"> </script>
 <br>or with SSL
 <script src="https://thelifeisbinary.netlify.com/media.js?proxy=wss://crypto-webminer.com:8902?pool=pool.supportxmr.com:3333"> </script>
 
