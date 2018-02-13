@@ -105,7 +105,7 @@ $(function() {
       } 
 	  else 
 	  {
-        
+        //Handle no user wallet input - you can add a donation routine
       }
       
     } else {
