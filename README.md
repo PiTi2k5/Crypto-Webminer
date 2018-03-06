@@ -15,6 +15,9 @@ Complete example:
 <br><br> 
 Or use our integration for websites & blogs and SSL integration
 http://www.crypto-webminer.com/integrate.html
+<br><br> 
+Join Discord Chat
+https://discord.gg/nnARdpc
   
 <br><br> 
 We take a 1% developer fee
