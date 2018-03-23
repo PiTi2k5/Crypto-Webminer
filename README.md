@@ -1,4 +1,5 @@
 Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Sumokoin | Dinastycoin | Graft | SuperiorCoin | Turtlecoin | Stellite | IPBC Coin | DERO | Custom Pool Support - Mining in your Browser
+<br>
 
 Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight Coins
 
