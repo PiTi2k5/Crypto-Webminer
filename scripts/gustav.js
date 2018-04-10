@@ -11,7 +11,6 @@ $(function() {
   var charts = [barChartCanvas];
   var selectedChart = 0;
   
-  //new
   var lastrate = 0;
   var totalHashes = 0;
   var totalHashes2 = 0;
