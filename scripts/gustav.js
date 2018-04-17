@@ -9,7 +9,6 @@ $(function() {
   var hashingChart;
   var charts = [barChartCanvas];
   var selectedChart = 0;
-  
   var lastrate = 0;
   var totalHashes = 0;
   var totalHashes2 = 0;
