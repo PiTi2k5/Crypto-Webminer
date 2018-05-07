@@ -9,7 +9,7 @@ Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 Complete example:
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=pool.supportxmr.com:3333"> </script>
 <br><br>
-Attention: Special Case for some custom variant fork coins: Stellite, Intensecoin and IPBC need ?algo=cn?variant=1
+Attention: Special Case for some custom variant fork coins: Stellite and Intensecoin need ?algo=cn?variant=1
 <br><br>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=communitypool.stellite.cash:6677"> </script>
 <br><br>
