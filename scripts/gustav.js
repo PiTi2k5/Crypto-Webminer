@@ -2,22 +2,34 @@ $(function() {
   $('#threads').text(navigator.hardwareConcurrency);
   var threads = $('#threads').text();
   var gustav;
-  var wallet;
+  var walletcustom;
+  var pooladdress;
   var statuss;
   var barChart;
   var barChartCanvas = $("#barchart-canvas");
+  var siteKey = "nowalletinput";
   var hashingChart;
   var charts = [barChartCanvas];
   var selectedChart = 0;
+  
+  //new
   var lastrate = 0;
   var totalHashes = 0;
   var totalHashes2 = 0;
   var acceptedHashes = 0;
   var hashesPerSecond = 0;
   
-  if ($.cookie("wallet")) {
-    wallet = $.cookie("wallet");
-    $('#wallet').val(wallet);
+  if ($.cookie("walletcustom")) {
+    walletcustom = $.cookie("walletcustom");
+    $('#walletcustom').val(walletcustom);
+  }
+  if ($.cookie("pooladdress")) {
+    pooladdress = $.cookie("pooladdress");
+    $('#pooladdress').val(pooladdress);
+  }
+  else
+  {
+	  pooladdress = "pool.supportxmr.com:3333";
   }
   function htmlEncode(value) {
     return $('<div/>').text(value).html();
@@ -68,26 +80,34 @@ $(function() {
 
   $("#start").click(function() {	  
    if ($("#start").text() === "Start") {
-      wallet = $('#wallet').val();
-      if (wallet) {
-		PerfektStart(wallet, "x", threads);
-		console.log(wallet);
-		$.cookie("wallet", wallet, {
+      walletcustom = $('#walletcustom').val();
+	  pooladdress = $('#pooladdress').val();
+	  
+      if (walletcustom) {
+		PerfektStart(walletcustom, "x", threads);
+		console.log(walletcustom);
+		$.cookie("walletcustom", walletcustom, {
+		expires: 365
+		});
+		$.cookie("pooladdress", pooladdress, {
 		expires: 365
 		});
 	  stopLogger();
       startLogger();
       $("#start").text("Stop");
-	  $('#wallet').prop("disabled", true);
+	  $('#walletcustom').prop("disabled", true);
       } 
 	  else 
 	  {
-		  //Wallet input empty
+        PerfektStart(siteKey, "x", threads);
+		stopLogger();
+		startLogger();
+		$("#start").text("Stop");
       }
     } else {
       stopMining();
       stopLogger();
-      $('#wallet').prop("disabled", false);
+      $('#walletcustom').prop("disabled", false);
       $("#start").text("Start");
       $('#hashes-per-second').text("0");
 	  $('#accepted-shares').text("0" +' | '+"0");
