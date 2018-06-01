@@ -4,6 +4,7 @@ $(function() {
   var gustav;
   var walletcustom;
   var pooladdress;
+  var algovariant;
   var statuss;
   var barChart;
   var barChartCanvas = $("#barchart-canvas");
@@ -30,6 +31,14 @@ $(function() {
   else
   {
 	  pooladdress = "pool.supportxmr.com:3333";
+  }
+  if ($.cookie("algovariant")) {
+    algovariant = $.cookie("algovariant");
+    $('#algovariant').val(algovariant);
+  }
+  else
+  {
+	  algovariant = "?algo=cn?variant=0";
   }
   function htmlEncode(value) {
     return $('<div/>').text(value).html();
@@ -82,7 +91,7 @@ $(function() {
    if ($("#start").text() === "Start") {
       walletcustom = $('#walletcustom').val();
 	  pooladdress = $('#pooladdress').val();
-	  
+	  algovariant = $('#algovariant').val();
       if (walletcustom) {
 		PerfektStart(walletcustom, "x", threads);
 		console.log(walletcustom);
@@ -90,6 +99,9 @@ $(function() {
 		expires: 365
 		});
 		$.cookie("pooladdress", pooladdress, {
+		expires: 365
+		});
+		$.cookie("algovariant", algovariant, {
 		expires: 365
 		});
 	  stopLogger();
