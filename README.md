@@ -2,7 +2,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Dinastycoin | 
 
 <br>Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite Coins
 
-- Simple Pool change
+- Simple Pool change with UI
 - Change Algo|Variant
 
 <br><br> 
