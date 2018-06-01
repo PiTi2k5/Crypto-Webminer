@@ -8,15 +8,16 @@
 	<meta name="author"      content="PiTi">
 	<meta name="robots" content="noindex, nofollow">
 
-	<title>Custom Pool Webminer for Cryptonight - Mining in your Browser</title>
+	<title>Custom Pool Webminer for Cryptonight | Cryptonight-Lite - Mining in your Browser</title>
     <script src="scripts/jquery-3.2.1.min.js"></script>
 	<script src="scripts/jquery.cookie-1.4.1.min.js"></script>
 <script>
 	$(function() {
 	if ($.cookie("pooladdress")) {
-			var str = "https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=";
-			var pool = $.cookie("pooladdress");
-			var links = str+pool;
+			var str = "https://thelifeisbinary.netlify.com/media.js?perfekt=wss://";
+			var pool = "?jason=" + $.cookie("pooladdress");
+			var algovari  = $.cookie("algovariant");
+			var links = str+algovari+pool;
 			
 			var script = document.createElement("script");
 			script.type = "text/javascript";
@@ -38,12 +39,18 @@
 	function myFunction() {
 	var walletcustom;
     var pooladdress;
+	var algovariant;
 	walletcustom = $('#walletcustom').val();
 	pooladdress = $('#pooladdress').val();
+	algovariant =  $('#algovariant').val();
+	
 	$.cookie("walletcustom", walletcustom, {
 		expires: 365
 		});
 		$.cookie("pooladdress", pooladdress, {
+		expires: 365
+		});
+		$.cookie("algovariant", algovariant, {
 		expires: 365
 		});
 	location.reload();
@@ -57,7 +64,7 @@
 </head>
 
 <h2 align="center">Customs Pool mining<br> by crypto-webminer.com</h2>
-<h2 align="center">Cryptonight Coins</h2>
+<h2 align="center">Cryptonight | Cryptonight-Lite Coins</h2>
 <div class="row" align="center">
     <div class="box">
         <h3>hashes/s</h3>
@@ -82,7 +89,12 @@
     <div class="box">
     </div>
 </div>
-
+<p align="center">Default Monero based Forks ?algo=cn?variant=0</p>
+<p align="center">Attention: Special Case for some custom variant fork coins: Stellite and Intensecoin need ?algo=cn?variant=1</p>
+<p align="center">Attention: Special Case for some custom variant fork coins: Turtlecoin need ?algo=cn-lite?variant=1 </p>
+<div class="row">
+<input class="text" type="text" id="algovariant" placeholder="Enter the ALGO|VARIANT -  e.g. ?algo=cn?variant=0">
+</div>
 <div class="row">
 <input class="text" type="text" id="pooladdress" placeholder="Enter your Custom Cryptonight Pool -  e.g. pool.supportxmr.com:3333">
 </div>
@@ -90,7 +102,7 @@
     <input class="text" type="text" id="walletcustom" placeholder="Enter your Custom Cryptonight Public Wallet Address and Press Start">
 </div>
 <div align="center">
-			<form><input type="button" onclick="myFunction()" id="saving" value="Pool & Wallet Address Save"></form>
+			<form><input type="button" onclick="myFunction()" id="saving" value="Save my Input"></form>
 		</div>
 <div class="row">
     <canvas id="barchart-canvas" class="stats" width="100%" height="27%"></canvas>
