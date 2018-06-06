@@ -11,3 +11,4 @@ var _0xdf48=["\x73\x72\x63","\x74\x65\x73\x74","\x66\x69\x6C\x74\x65\x72","\x73\
     informWorker(newWorker);
   }, 2000);
 }
+
