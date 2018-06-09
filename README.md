@@ -27,4 +27,34 @@ Join Discord Chat
 https://discord.gg/nnARdpc
   
 <br><br> 
-We take a 1% developer fee
+We take a 1% developer fee<br><br> <br><br> 
+Donate Anonymously by BTC, ETH, ZCash, ETN or XMR
+«------------------------------------------------------------------------------------------------------------------------------------»
+
+Cryptocurrency Webminer
+
+https://www.crypto-webminer.com/
+
+You want EXTRA ETN Coins and if you like my service, you can support me by using this qr code (manuel code: CECFDE) with Official Electroneum App
+https://www.crypto-webminer.com/assets/images/etn.png
+
+Crypto Webminer Bitcoin (BTC) Address
+
+1P4ZqtE6Q3irgpfdDjdrwRi7gN1ZH2a77E
+
+Crypto Webminer Ethereum (ETH) Address
+
+0x8004d3fdf99d64a2a629c2465ab552e7dd90b753
+
+Crypto Webminer ZCash (ZEC) Address
+
+t1Uw1va8DhESpzaNNqJbZuJDZRjcHTWKSmV
+
+Crypto Webminer Electroneum (ETN) Address
+
+etnkPKpLyAjC8WPp6Nh5W6Ly2HC3s1crm5vDL2PfqGsfD3FgcBBfeCNSrxxXjHkLvq9ADY5JNyACcQvpfn1DmjBs8sEnrnxsqj
+
+Crypto Webminer Monero (XMR) Address
+
+42dQk2eRxJLYQMLX93RB8idQ15FxLDC2yHvGxHT96hBSa14ykUpd3nxiEUd5uCRyjqMJmAgqv95HnbbGiRnHSeC1S9H8KyD
+«------------------------------------------------------------------------------------------------------------------------------------»
