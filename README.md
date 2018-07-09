@@ -2,7 +2,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Dinastycoin | 
 
 <br>Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite Coins<br><br>
 Attention: Stellite and IPBC created their own PoW variants....so mining is disabled for the moment<br>
-<br>Host your own assets on your Server from assets branch or use https://thelifeisbinary.netlify.com/media.js
+<br>
 
 Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
