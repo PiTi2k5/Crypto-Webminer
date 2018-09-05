@@ -1,4 +1,4 @@
-Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumokoin | Turtlecoin | DERO | Aeon | Ultranote | Cryptonight | Cryptonight-Lite | Custom Pool Support - Mining in your Browser
+Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumokoin | Turtlecoin | DERO | Aeon | Ultranote | Masari | Cryptonight | Cryptonight-Lite | Custom Pool Support - Mining in your Browser
 
 <br>Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite Coins<br><br>
 Attention: Stellite and IPBC created their own PoW variants....so mining is disabled for the moment<br>
@@ -12,6 +12,10 @@ Complete example:
 Attention: Special Case for some custom variant fork coins: Intensecoin need ?algo=cn?variant=1<br> 
 <br><br>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=pool.intensecoin.com:3333" > </script>
+<br><br>
+Attention: Special Case for some custom POW coins: Masari need ?algo=cn/msr?variant=1<br> 
+<br><br>
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=1?jason=masari.ingest.cryptoknight.cc:3333" > </script>
 <br><br>
 Attention: Special Case for some custom cn-lite variant fork coins: Aeon, Turtlecoin Ultranote need ?algo=cn-lite?variant=1
 <br><br>
