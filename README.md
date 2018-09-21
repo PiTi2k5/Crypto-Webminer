@@ -1,6 +1,6 @@
 Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumokoin | Turtlecoin | DERO | Aeon | Ultranote | Masari | Stellite | Cryptonight | Cryptonight-Lite | Custom Pool Support - Mining in your Browser
 
-##### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast Coins<br><br>
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast Coins<br><br>
 Attention: IPBC created their own PoW variant....so mining is disabled for the moment<br>
 <br>
 
