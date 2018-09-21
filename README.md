@@ -41,7 +41,7 @@ https://discord.gg/nnARdpc
   
 <br><br> 
 We take a 1% developer fee<br><br> <br><br> 
-Donate Anonymously by BTC, ETH, ZCash, ETN or XMR
+## Donate Anonymously by BTC, ETH, ZCash, ETN or XMR
 «------------------------------------------------------------------------------------------------------------------------------------»
 
 Cryptocurrency Webminer
