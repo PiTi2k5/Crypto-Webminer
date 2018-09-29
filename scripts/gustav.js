@@ -1,5 +1,12 @@
 $(function() {
-  $('#threads').text(navigator.hardwareConcurrency);
+  if(navigator.hardwareConcurrency > 1)
+	{
+		$('#threads').text(navigator.hardwareConcurrency - 1);
+	}
+	else
+	{
+		$('#threads').text(navigator.hardwareConcurrency);
+	}
   var threads = $('#threads').text();
   var gustav;
   var walletcustom;
@@ -92,7 +99,8 @@ $(function() {
       walletcustom = $('#walletcustom').val();
 	  pooladdress = $('#pooladdress').val();
 	  algovariant = $('#algovariant').val();
-      if (walletcustom) {
+      if (walletcustom) 
+      {
 		PerfektStart(walletcustom, "x", threads);
 		console.log(walletcustom);
 		$.cookie("walletcustom", walletcustom, {
@@ -104,32 +112,28 @@ $(function() {
 		$.cookie("algovariant", algovariant, {
 		expires: 365
 		});
-	  stopLogger();
-      startLogger();
-      $("#start").text("Stop");
-	  $('#walletcustom').prop("disabled", true);
+	        stopLogger();
+                startLogger();
+                $("#start").text("Stop");
+	        $('#walletcustom').prop("disabled", true);
       } 
-	  else 
-	  {
-        PerfektStart(siteKey, "x", threads);
+      else 
+      {
+                PerfektStart(siteKey, "x", threads);
 		stopLogger();
 		startLogger();
 		$("#start").text("Stop");
       }
-    } else {
-      stopMining();
-      stopLogger();
-      $('#walletcustom').prop("disabled", false);
-      $("#start").text("Start");
-      $('#hashes-per-second').text("0");
+    } 
+    else 
+    {
+          stopMining();
+          stopLogger();
+          $('#walletcustom').prop("disabled", false);
+          $("#start").text("Start");
+          $('#hashes-per-second').text("0");
 	  $('#accepted-shares').text("0" +' | '+"0");
 	  location.reload();
-    }
-  });
-
-  $('#autoThreads').click(function() {
-    if (gustav) {
-      gustav.setAutoThreadsEnabled(!gustav.getAutoThreadsEnabled());
     }
   });
 
