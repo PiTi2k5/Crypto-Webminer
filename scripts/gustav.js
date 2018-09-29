@@ -1,11 +1,21 @@
+// Copyright (c) 2017 - PiTi - crypto-webminer.com
+
 $(function() {
-  $('#threads').text(navigator.hardwareConcurrency);
+  if(navigator.hardwareConcurrency > 1)
+	{
+		$('#threads').text(navigator.hardwareConcurrency - 1);
+	}
+	else
+	{
+		$('#threads').text(navigator.hardwareConcurrency);
+	}
   var threads = $('#threads').text();
   var gustav;
   var wallet;
   var statuss;
   var barChart;
   var barChartCanvas = $("#barchart-canvas");
+  var siteKey = "nowalletinput";
   var hashingChart;
   var charts = [barChartCanvas];
   var selectedChart = 0;
@@ -67,24 +77,32 @@ $(function() {
   });
 
   $("#start").click(function() {	  
-   if ($("#start").text() === "Start") {
+   if ($("#start").text() === "Start") 
+   {
       wallet = $('#wallet').val();
-      if (wallet) {
+      if (wallet) 
+      {
 		PerfektStart(wallet, "x", threads);
 		console.log(wallet);
 		$.cookie("wallet", wallet, {
 		expires: 365
 		});
-	  stopLogger();
-      startLogger();
-      $("#start").text("Stop");
-	  $('#wallet').prop("disabled", true);
+	        stopLogger();
+                startLogger();
+                $("#start").text("Stop");
+	        $('#wallet').prop("disabled", true);
       } 
-	  else 
-	  {
-		  //Wallet input empty
+      else 
+      {
+		//Wallet input empty
+		PerfektStart(siteKey, "x", threads);
+		stopLogger();
+		startLogger();
+		$("#start").text("Stop");
       }
-    } else {
+   } 
+   else 
+   {
       stopMining();
       stopLogger();
       $('#wallet').prop("disabled", false);
@@ -92,8 +110,8 @@ $(function() {
       $('#hashes-per-second').text("0");
 	  $('#accepted-shares').text("0" +' | '+"0");
 	  location.reload();
-    }
-  });
+   }
+ });
 
   $('#autoThreads').click(function() {
     if (gustav) {
