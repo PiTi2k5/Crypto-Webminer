@@ -4,9 +4,9 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 Attention: IPBC created their own PoW variant....so mining is disabled for the moment<br>
 <br>
 #### Update: Cryptonight V8 ready - Fork date 2018-10-18 after block 1685555 --> ?algo=cn?variant=0 for autoswitch
-<br>
+
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
-<br>
+
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
 #### Complete example for Cryptonight default fork Coins (autoswitch):
