@@ -45,7 +45,7 @@ https://discord.gg/nnARdpc
   
 <br><br> 
 We take a 1% developer fee<br><br> <br><br> 
-## Donate Anonymously by BTC, ETH, ZCash, ETN or XMR
+## Donate Anonymously by BTC or XMR
 «------------------------------------------------------------------------------------------------------------------------------------»
 
 Cryptocurrency Webminer
@@ -56,19 +56,7 @@ You want EXTRA ETN Coins and if you like my service, you can support me by using
 
 Crypto Webminer Bitcoin (BTC) Address
 
-1P4ZqtE6Q3irgpfdDjdrwRi7gN1ZH2a77E
-
-Crypto Webminer Ethereum (ETH) Address
-
-0x8004d3fdf99d64a2a629c2465ab552e7dd90b753
-
-Crypto Webminer ZCash (ZEC) Address
-
-t1Uw1va8DhESpzaNNqJbZuJDZRjcHTWKSmV
-
-Crypto Webminer Electroneum (ETN) Address
-
-etnkPKpLyAjC8WPp6Nh5W6Ly2HC3s1crm5vDL2PfqGsfD3FgcBBfeCNSrxxXjHkLvq9ADY5JNyACcQvpfn1DmjBs8sEnrnxsqj
+3FMScNyRqJHjiL72oj2AW9D95jdNRFzTWq
 
 Crypto Webminer Monero (XMR) Address
 
