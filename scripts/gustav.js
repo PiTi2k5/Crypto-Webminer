@@ -83,7 +83,7 @@ $(function() {
   $('#thread-add').click(function() {
     threads++;
     $('#threads').text(threads);
-        addWorker();
+        addWorkers(threads);
   });
 
   $('#thread-remove').click(function() {
