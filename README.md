@@ -1,7 +1,7 @@
 
 Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumokoin | Turtlecoin | DERO | Aeon | Ultranote | Masari | Stellite | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Half (Pico) | Custom Pool Support - Mining in your Browser
 
-#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Half Coins
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half Coins
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
