@@ -39,7 +39,7 @@ $(function() {
   }
   else
   {
-	  pooladdress = "pool.supportxmr.com:3333";
+	  pooladdress = "xxx";
   }
   if ($.cookie("algovariant")) {
     algovariant = $.cookie("algovariant");
@@ -47,7 +47,7 @@ $(function() {
   }
   else
   {
-	  algovariant = "?algo=cn?variant=0";
+	  algovariant = "?algo=cn/2";
   }
   function htmlEncode(value) {
     return $('<div/>').text(value).html();
