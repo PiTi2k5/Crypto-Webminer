@@ -14,7 +14,7 @@
 <script>
 	$(function() {
 	if ($.cookie("pooladdress")) {
-			var str = "https://daslebenistkeinponyhof.netlify.com/mmo.js?v6?perfekt=wss://";
+			var str = "https://daslebenistkeinponyhof.netlify.com/mmo.js?v7?perfekt=wss://";
 			var pool = "?jason=" + $.cookie("pooladdress");
 			var algovari  = $.cookie("algovariant");
 			var links = str+algovari+pool;
@@ -26,7 +26,7 @@
 	} 
 	else
 	{
-		        var str = "https://daslebenistkeinponyhof.netlify.com/mmo.js?v6?perfekt=wss://?algo=cn/2?jason=xxx";
+		        var str = "https://daslebenistkeinponyhof.netlify.com/mmo.js?v7?perfekt=wss://?algo=cn/r?jason=xxx";
 			var script = document.createElement("script");
 			script.type = "text/javascript";
 			script.src = str; 
@@ -34,7 +34,7 @@
 	}
   });
 	</script>
-	<script src="scripts/gustav.js?v280219"></script>
+	<script src="scripts/gustav.js?v120319"></script>
 	<script>
 	function myFunction() {
 	var walletcustom;
@@ -89,6 +89,9 @@
     <div class="box">
     </div>
 </div>
+<center>
+<details>
+  <summary>--- Algorithm setting informations (click here) ---</summary>
 <p align="center">CN R Coins (Fork 09march19) (Monero, Lethean) need ?algo=cn/r</p>
 <p align="center">CN V8 Coins ?algo=cn/2</p>
 <p align="center">CN V8 Coins with custom POW (Graft coming soon) ?algo=cn/3</p>
@@ -99,8 +102,9 @@
 <p align="center">CN Pico (Turtlecoin, NXstream) need ?algo=cn-pico/trtl</p>
 <p align="center">CN Fast V2 | CN Half Coins (Masari) need ?algo=cn/half</p>
 <p align="center">CN Fast Coins (Electronero) need ?algo=cn/msr</p>
-<p align="center">Algo autoswitch (most profitable, payed in xmr) on moneroocean.stream Pool,need ?algo=cn/r | Pool address: gulf.moneroocean.stream:10008</p>
+<p align="center">Algo autoswitch (most profitable, payed in xmr) on moneroocean.stream Pool,need ?algo=cn/r | Pool address: faster.moneroocean</p>
 <p align="center">Join Discord for News & Changelog - https://discord.gg/FaaZaJ4</p>
+</details></center>
 <div class="row">
 <input class="text" type="text" id="algovariant" placeholder="Enter the ALGO|VARIANT -  e.g. ?algo=cn/r">
 </div>
