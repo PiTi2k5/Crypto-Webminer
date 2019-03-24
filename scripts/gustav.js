@@ -64,6 +64,7 @@ $(function() {
   $('#thread-add').click(function() {
     threads++;
     $('#threads').text(threads);
+        deleteAllWorkers();
         addWorkers(threads);
   });
 
