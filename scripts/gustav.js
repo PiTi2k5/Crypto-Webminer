@@ -85,15 +85,28 @@ $(function() {
   $('#thread-add').click(function() {
     threads++;
     $('#threads').text(threads);
-        deleteAllWorkers();
-        addWorkers(threads);
+        if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
+		{
+			
+		}
+		else
+		{
+			deleteAllWorkers(); addWorkers(threads);
+		}	
   });
 
   $('#thread-remove').click(function() {
     if (threads > 1) {
       threads--;
       $('#threads').text(threads);
-          removeWorker();
+		if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
+		{
+			
+		}
+		else
+		{
+			removeWorker();
+		}
     }
   });
 
