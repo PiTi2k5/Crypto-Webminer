@@ -5,6 +5,9 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | IntenseCoin | Graft | Sumoko
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
+#### CN Heavy Beta Test (BitTube included) - https://www.heavy-test.crypto-webminer.com/heavy-test.html
+
+
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
 
