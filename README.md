@@ -58,7 +58,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmh.js?perfekt=wss://?algo=cn-heavy/xhv?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Heavy | CN Mix (CN-Saber) Coins (BitTube) need ?algo=cn-heavy/tube<br> 
+#### Examples: CN-Saber Coins (BitTube) need ?algo=cn-heavy/tube<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmh.js?perfekt=wss://?algo=cn-heavy/tube?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
