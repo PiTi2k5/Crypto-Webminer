@@ -4,7 +4,9 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
-#### CN Heavy Beta Test (BitTube included) - https://www.heavy-test.crypto-webminer.com/heavy-test.html
+#### LiveTest CustomPools - https://www.custom.crypto-webminer.com/custom.html
+
+#### LiveTest CN Heavy | CN Saber (BitTube included) - https://www.heavy-test.crypto-webminer.com/heavy-test.html
 
 
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
