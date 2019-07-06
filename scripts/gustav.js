@@ -64,28 +64,32 @@ $(function() {
   $('#thread-add').click(function() {
     threads++;
     $('#threads').text(threads);
-        if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
+                /* if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
 		{
 			
 		}
 		else
 		{
 			deleteAllWorkers(); addWorkers(threads);
-		}	
+		} */
+	        //Temp fix for iOS no longer needed
+	  deleteAllWorkers(); addWorkers(threads);
   });
 
   $('#thread-remove').click(function() {
     if (threads > 1) {
       threads--;
       $('#threads').text(threads);
-		if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
+		/* if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
 		{
 			
 		}
 		else
 		{
 			removeWorker();
-		}
+		} */
+	        //Temp fix for iOS no longer needed
+	    removeWorker();
     }
   });
 
