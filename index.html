@@ -8,13 +8,13 @@
 	<meta name="author" content="PiTi - crypto-webminer.com">
 	<meta name="robots" content="noindex, nofollow">
 
-	<title>Custom Pool Webminer for Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-Half - Mining in your Browser</title>
+	<title>Custom Pool Webminer for Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-Half | Argon2id - Chukwa | CN-Heavy | CN-Saber - Mining in your Browser</title>
         <script src="scripts/jquery-3.2.1.min.js"></script>
 	<script src="scripts/jquery.cookie-1.4.1.min.js"></script>
 <script>
 	$(function() {
 	if ($.cookie("pooladdress")) {
-			var str = "https://daslebenistkeinponyhof.netlify.com/mmo.js?v8?perfekt=wss://";
+			var str = "https://daslebenistkeinponyhof.netlify.com/mmo.js?v9?perfekt=wss://";
 			var pool = "?jason=" + $.cookie("pooladdress");
 			var algovari  = $.cookie("algovariant");
 			var links = str+algovari+pool;
@@ -26,7 +26,7 @@
 	} 
 	else
 	{
-		        var str = "https://daslebenistkeinponyhof.netlify.com/mmo.js?v8?perfekt=wss://?algo=cn/r?jason=xxx";
+		        var str = "https://daslebenistkeinponyhof.netlify.com/mmo.js?v9?perfekt=wss://?algo=cn/r?jason=xxx";
 			var script = document.createElement("script");
 			script.type = "text/javascript";
 			script.src = str; 
@@ -64,7 +64,7 @@
 </head>
 
 <h2 align="center">Customs Pool mining<br> by crypto-webminer.com</h2>
-<h2 align="center">Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-Half Coins</h2>
+<h2 align="center">Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-Half | Argon2id - Chukwa | CN-Heavy | CN-Saber Coins</h2>
 <div class="row" align="center">
     <div class="box">
         <h3>hashes/s</h3>
@@ -92,16 +92,19 @@
 <center>
 <details>
   <summary>--- Algorithm setting informations (click here) ---</summary>
-<p align="center">CN R Coins (Fork 09march19) (Monero, Lethean) need ?algo=cn/r</p>
+<p align="center">CN R Coins (Monero, Lethean, Sumokoin) need ?algo=cn/r</p>
 <p align="center">CN V8 Coins ?algo=cn/2</p>
 <p align="center">CN V7 Coins (MoneroV) need ?algo=cn/1</p>
-<p align="center">CN ASIC Coins (Electroneum, Bytecoin, Sumokoin, Dero, Xeonbit, Pennykoin, Beldex, Newton, Karbo, X12 Coin, B2Bcoin) need ?algo=cn/0</p>
-<p align="center">CN Stellite (Stellite V5) need ?algo=cn/xtl</p>
-<p align="center">CN Lite V7 Coins (Aeon, BitcoiNote, BBSCoin, Triton) need ?algo=cn-lite/1</p>
-<p align="center">CN Pico (Turtlecoin, NXstream) need ?algo=cn-pico/trtl</p>
-<p align="center">CN Fast V2 | CN Half Coins (Masari) need ?algo=cn/half</p>
+<p align="center">CN ASIC Coins (Electroneum, Bytecoin, Dero, Xeonbit, Pennykoin, Beldex, Newton, Karbo, X12 Coin, B2Bcoin) need ?algo=cn/0</p>
+<p align="center">CN Lite V7 Coins (Aeon, BitcoiNote, Triton) need ?algo=cn-lite/1</p>
+<p align="center">CN Pico (Turtlecoin, NXstream, ArQma, Iridium, Loki) need ?algo=cn-pico/trtl</p>
+<p align="center">CN Fast V2 | CN Half Coins (Masari, Torque) need ?algo=cn/half</p>
 <p align="center">CN Fast Coins (Electronero) need ?algo=cn/msr</p>
+<p align="center">Argon2id | Chukwa Coins (Turtlecoin at block 1800000) need ?algo=chukwa | Test Pool: publicnode.ydns.eu:3420</p>
 <p align="center">Algo autoswitch (most profitable, payed in xmr) on moneroocean.stream Pool,need ?algo=cn/r | Pool address: faster.moneroocean</p>
+<p align="center">CN-Saber (BitTube) need ?algo=cn-heavy/tube</p>
+<p align="center">CN-Heavy XHV Coins (Haven, Bloc.Money, Saronite) need ?algo=cn-heavy/xhv</p>
+<p align="center">CN-Heavy Classic Coins (Bixbite) need ?algo=cn-heavy/0</p>
 <p align="center">Join Discord for News & Changelog - https://discord.gg/FaaZaJ4</p>
 </details></center>
 <div class="row">
