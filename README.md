@@ -8,6 +8,11 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 
 #### LiveTest CN Heavy | CN Saber (BitTube) - https://www.heavy-test.crypto-webminer.com/heavy-test.html
 
+#### Mining App for Android, iOS, Win UWP
+Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.cryptonight.apk
+iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8
+Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
+
 
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
