@@ -21,27 +21,27 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10008" > </script>
 ```
-#### Examples: CN R Coins (Monero, Lethean, Sumokoin) need ?algo=cn/r<br> 
+#### Examples: CN R Coins (Monero,	Italocoin, Lethean, Sumokoin) need ?algo=cn/r<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN V8 Coins need ?algo=cn/2<br> 
+#### Examples: CN V8 Coins (Caliber, JyoCoin, PyrexCoin, Safex Cash) need ?algo=cn/2<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/2?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN V7 Coins (MoneroV) need ?algo=cn/1<br> 
+#### Examples: CN V7 Coins (Beldex, Citadel, CPA Coin, Hospital Coin, LeviarCoin, MoneroV, Mutex, ParsiCoin, Quantum, Superior Coin) need ?algo=cn/1<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN ASIC Coins (Bytecoin, Dero, Xeonbit, Pennykoin, Beldex, Newton, Karbo, X12 Coin, B2Bcoin) need ?algo=cn/0<br> 
+#### Examples: CN ASIC Coins (B2Bcoin, Balkancoin, BeFrank, Bitcoal, Bold, Bytecoin, Crepcoin, CROAT Coin, Dero, DinastyCoin, Discoin, Geem, Incognito, Infinium - 8, Investcoin, InziderX, Karbo, LithiumBit, MonetaVerde, Newton, NinjaCoin, PluraCoin, Qwertycoin, SpesCoin, TFT Network, TycheCash, Video Games, X12 Coin, Xcoin, Xeonbit) need ?algo=cn/0<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Lite V7 Coins (Aeon, BitcoiNote, Triton) need ?algo=cn-lite/1
+#### Examples: CN Lite V7 Coins (2ACoin, ADON Coin, Aeon, BBSCoin, BitcoinNova, BitcoiNote, Bitsum, Bittorium, BytechCoin, Catalyst, Equilibria, IntuCOIN, NashCash, Nibble Classic, Secure Cash, Ultranote, Zent Cash) need ?algo=cn-lite/1
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-lite/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Pico Coins (Turtlecoin, NXstream, ArQma, Iridium, Loki) need ?algo=cn-pico/trtl
+#### Examples: CN Pico Coins (ArQmA, BitcoinMono, Cypruscoin, Dero Gold, ElphyreCoin, HITC, Iridium, LightChain, Mangocoin, Obscure, Oscillate, Plenteum, Tellurium, Tritanium, TurtleCoin, TurtleGold, Worktips, WrkzCoin, XtendCash) need ?algo=cn-pico/trtl
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-pico/trtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
@@ -49,7 +49,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/half?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Fast Coins (Electronero) need ?algo=cn/msr<br> 
+#### Examples: CN Fast Coins (Aluisyo, Electronero, ElectroneroXP) need ?algo=cn/msr<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/msr?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
@@ -57,7 +57,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-heavy/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Heavy XHV Coins (Haven, Bloc.Money, Saronite) need ?algo=cn-heavy/xhv<br> 
+#### Examples: CN Heavy XHV Coins (Haven, BLOC.money, CitiCash, Niobio Cash, Ombre) need ?algo=cn-heavy/xhv<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-heavy/xhv?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
