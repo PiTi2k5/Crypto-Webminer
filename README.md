@@ -1,6 +1,6 @@
-Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Argon2id - Chukwa | Custom Pool Support - Mining in your Browser
+Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Custom Pool Support - Mining in your Browser
 
-#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Argon2id - Chukwa Coins
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Cryptonight-Heavy | Cryptonight-Saber (BitTube) Coins
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
@@ -44,6 +44,10 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 #### Examples: CN Pico Coins (ArQmA, BitcoinMono, Cypruscoin, Dero Gold, ElphyreCoin, HITC, Iridium, LightChain, Mangocoin, Obscure, Oscillate, Plenteum, Tellurium, Tritanium, TurtleCoin, TurtleGold, Worktips, WrkzCoin, XtendCash) need ?algo=cn-pico/trtl
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-pico/trtl?jason=Your_Favorite_Pool:PortNr" > </script>
+```
+#### Examples: Argon2id - Chukwa Coins (TurtleCoin @ Block 1800000) need ?algo=chukwa
+```sh
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=chukwa?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
 #### Examples: CN Fast V2 | CN Half Coins (Masari, Torque) need ?algo=cn/half<br> 
 ```sh
