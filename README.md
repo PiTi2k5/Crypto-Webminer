@@ -1,6 +1,6 @@
-Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Argon2id - Chukwa | Custom Pool Support - Mining in your Browser
+Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Custom Pool Support - Mining in your Browser
 
-#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Argon2id - Chukwa Coins<br><br>
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Cryptonight-Heavy | Cryptonight-Saber (BitTube) Coins<br><br>
 
 - Simple Pool change with UI
 - Change Algo|Variant
