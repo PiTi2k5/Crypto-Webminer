@@ -17,7 +17,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
 
-#### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - Payout in XMR | Best choice for mining ;)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv:tube/Argon2id-Chukwa) <br> need ?algo=cn/r<br> 
+#### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - Payout in XMR Monero | Best choice for mining (Works after Monero Hardfork RandomX)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv:tube/Argon2id-Chukwa) <br> need ?algo=cn/r<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10008" > </script>
 ```
