@@ -101,5 +101,5 @@ Crypto Webminer Bitcoin (BTC) Address
 
 Crypto Webminer Monero (XMR) Address
 
-42dQk2eRxJLYQMLX93RB8idQ15FxLDC2yHvGxHT96hBSa14ykUpd3nxiEUd5uCRyjqMJmAgqv95HnbbGiRnHSeC1S9H8KyD
+838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
 «------------------------------------------------------------------------------------------------------------------------------------»
