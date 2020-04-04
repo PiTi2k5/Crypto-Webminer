@@ -41,7 +41,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/1?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN ASIC Coins (B2Bcoin, Balkancoin, BeFrank, Bitcoal, Bold, Bytecoin, Crepcoin, CROAT Coin, Dero, DinastyCoin, Discoin, Geem, Incognito, Infinium - 8, Investcoin, InziderX, Karbo, LithiumBit, MonetaVerde, Newton, NinjaCoin, PluraCoin, Qwertycoin, SpesCoin, TFT Network, TycheCash, Video Games, X12 Coin, Xcoin, Xeonbit) need ?algo=cn/0<br> 
+#### Examples: CN ASIC Coins (B2Bcoin, Balkancoin, BeFrank, Bitcoal, Bold, Bytecoin, Crepcoin, CROAT Coin, DinastyCoin, Discoin, Geem, Incognito, Infinium - 8, Investcoin, InziderX, Karbo, LithiumBit, MonetaVerde, Newton, NinjaCoin, PluraCoin, Qwertycoin, SpesCoin, TFT Network, TycheCash, Video Games, X12 Coin, Xcoin, Xeonbit) need ?algo=cn/0<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
