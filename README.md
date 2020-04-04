@@ -103,3 +103,15 @@ Crypto Webminer Monero (XMR) Address
 
 838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
 «------------------------------------------------------------------------------------------------------------------------------------»
+
+Key Data:
+
+• The world only solution for webmining BitTube (CN-Saber Algo) | most profitable right now
+• Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa
+• Website monetization alternative instead of annoying ads
+• UI webmining and mobile mining
+• Easy to use: No installation required, paste in your wallet and start webmining today
+• Easy integration script for website monetization
+• Mining pool is free to choice
+• Auto Algo Switch Feature: The most profitable algo will be mined automatically and you get payouts in Monero (XMR) ~ 30-50% more profitable instead of pure coin webmining
+• Helpfully support via Discord and Email
