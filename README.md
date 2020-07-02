@@ -88,7 +88,7 @@ https://discord.gg/nnARdpc
 We take a 1% developer fee<br><br> <br><br> 
 Key Data:
 
-• The world only solution for webmining BitTube (CN-Saber Algo) | most profitable right now<br>
+• The world only solution for webmining CN-Heavy and his variants like XHV Heaven and BitTube (CN-Saber Algo) | most profitable right now<br>
 • Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa<br>
 • Website monetization alternative instead of annoying ads<br>
 • UI webmining and mobile mining<br>
