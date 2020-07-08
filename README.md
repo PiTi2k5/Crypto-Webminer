@@ -73,7 +73,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-heavy/xhv?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN-Saber Coins (BitTube) need ?algo=cn-heavy/tube<br> 
+#### Examples: CN-Saber Coins (BitTube) need ?algo=cn-heavy/tube (only valid until 29th July 2020 because of Hardfork to Cuckaroo29b)<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn-heavy/tube?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
