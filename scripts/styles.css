@@ -230,6 +230,13 @@ th { color: #555; text-transform: uppercase; font-weight: normal; font-size:12px
 	text-align: center;
 }
 
+#pass
+{
+	font-size: 14px;
+	color: #F5F7F6;
+	text-align: center;
+}
+
 input[type=button], input[type=submit], input[type=reset] {
 
 	background: #32d1b1;
