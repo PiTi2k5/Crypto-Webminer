@@ -4,6 +4,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 
 - Simple Pool change with UI
 - Change Algo|Variant
+- Change Password
 
 <br><br> 
 Or use our integration for websites & blogs
