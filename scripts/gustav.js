@@ -14,6 +14,7 @@ $(function() {
   var walletcustom;
   var pooladdress;
   var algovariant;
+  var pass;
   var statuss;
   var barChart;
   var barChartCanvas = $("#barchart-canvas");
@@ -33,6 +34,14 @@ $(function() {
     walletcustom = $.cookie("walletcustom");
     $('#walletcustom').val(walletcustom);
   }
+  if ($.cookie("pass")) {
+    pass = $.cookie("pass");
+    $('#pass').val(pass);
+  }
+  else
+  {
+	  pass = "x";
+  }		
   if ($.cookie("pooladdress")) {
     pooladdress = $.cookie("pooladdress");
     $('#pooladdress').val(pooladdress);
@@ -119,9 +128,10 @@ $(function() {
       walletcustom = $('#walletcustom').val();
 	  pooladdress = $('#pooladdress').val();
 	  algovariant = $('#algovariant').val();
+	  pass = $('#pass').val();
       if (walletcustom) 
       {
-		PerfektStart(walletcustom, "x", threads);
+		PerfektStart(walletcustom, pass, threads);
 		console.log(walletcustom);
 		$.cookie("walletcustom", walletcustom, {
 		expires: 365
@@ -136,6 +146,9 @@ $(function() {
                 startLogger();
                 $("#start").text("Stop");
 	        $('#walletcustom').prop("disabled", true);
+	        $('#pooladdress').prop("disabled", true);
+	        $('#algovariant').prop("disabled", true);
+	        $('#pass').prop("disabled", true);
       } 
       else 
       {
@@ -150,6 +163,9 @@ $(function() {
           stopMining();
           stopLogger();
           $('#walletcustom').prop("disabled", false);
+	  $('#pooladdress').prop("disabled", false);
+	  $('#algovariant').prop("disabled", false);
+	  $('#pass').prop("disabled", false);
           $("#start").text("Start");
           $('#hashes-per-second').text("0");
 	  $('#accepted-shares').text("0" +' | '+"0");
