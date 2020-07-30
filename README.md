@@ -4,9 +4,7 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
-#### LiveTest CustomPools - https://www.custom.crypto-webminer.com/custom.html
-
-#### LiveTest CN Heavy | CN Saber (BitTube) - https://www.heavy-test.crypto-webminer.com/heavy-test.html
+#### LiveTest CustomPools with CN Heavy - https://www.custom.crypto-webminer.com/custom.html
 
 #### Mining App for Android, iOS, Win UWP<br> 
 Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.cryptonight.apk <br> 
@@ -17,7 +15,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
 
-#### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv:tube/Argon2id-Chukwa) <br> need ?algo=cn/r<br> 
+#### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv/Argon2id-Chukwa) <br> need ?algo=cn/r<br> 
 ```sh
 <script src="https://daslebenistkeinponyhof.netlify.com/mmo.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10008" > </script>
 ```
