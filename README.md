@@ -102,8 +102,6 @@ Cryptocurrency Webminer
 
 https://www.crypto-webminer.com/
 
-You want EXTRA ETN Coins and if you like my service, you can support me by using this qr code (manuel code: CECFDE) with Official Electroneum App
-
 Crypto Webminer Bitcoin (BTC) Address
 
 3FMScNyRqJHjiL72oj2AW9D95jdNRFzTWq
