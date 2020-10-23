@@ -1,6 +1,6 @@
-Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Custom Pool Support - Mining in your Browser
+Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Custom Pool Support - Mining in your Browser
 
-#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Argon2id - Chukwa | Cryptonight-Heavy | Cryptonight-Saber (BitTube) Coins
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) Coins
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
@@ -15,7 +15,7 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
 
-#### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv/Argon2id-Chukwa) <br> need ?algo=cn/r<br> 
+#### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv/Argon2id-Chukwa/Argon2id-Chukwav2) <br> need ?algo=cn/r<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10008" > </script>
 ```
@@ -51,9 +51,13 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn-pico/trtl?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: Argon2id - Chukwa Coins (TurtleCoin) need ?algo=chukwa
+#### Examples: Argon2id - Chukwa Coins need ?algo=chukwa
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=chukwa?jason=Your_Favorite_Pool:PortNr" > </script>
+```
+#### Examples: Argon2id - ChukwaV2 (Turtlecoin) Coins need ?algo=chukwav2
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=chukwav2?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
 #### Examples: CN Fast V2 | CN Half Coins (Masari) need ?algo=cn/half<br> 
 ```sh
@@ -87,7 +91,7 @@ We take a 1% developer fee<br><br> <br><br>
 Key Data:
 
 • The world only solution for webmining CN-Heavy and his variants like XHV Heaven and BitTube (CN-Saber Algo) | most profitable right now<br>
-• Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa<br>
+• Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa | Argon2id - ChukwaV2<br>
 • Website monetization alternative instead of annoying ads<br>
 • UI webmining and mobile mining<br>
 • Easy to use: No installation required, paste in your wallet and start webmining today<br>
