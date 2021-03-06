@@ -92,14 +92,15 @@ Key Data:
 
 • The world only solution for webmining CN-Heavy and his variants like XHV Heaven and BitTube (CN-Saber Algo) | most profitable right now<br>
 • Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa | Argon2id - ChukwaV2<br>
-• Website monetization alternative instead of annoying ads<br>
+• Website monetization alternative instead of annoying ads e.g. popup | popunder | fullscreen<br>
 • UI webmining and mobile mining<br>
 • Easy to use: No installation required, paste in your wallet and start webmining today<br>
 • Easy integration script for website monetization<br>
 • Mining pool is free to choice<br>
 • Auto Algo Switch Feature: The most profitable algo will be mined automatically and you get payouts in Monero (XMR) ~ 30-50% more profitable instead of pure coin webmining<br>
 • Helpfully support via Discord and Email<br><br> <br><br>
-## Donate Anonymously by BTC or XMR
+
+## Support my work by Donate
 «------------------------------------------------------------------------------------------------------------------------------------»
 
 Cryptocurrency Webminer
@@ -107,10 +108,14 @@ Cryptocurrency Webminer
 https://www.crypto-webminer.com/
 
 Crypto Webminer Bitcoin (BTC) Address
-
 3FMScNyRqJHjiL72oj2AW9D95jdNRFzTWq
 
 Crypto Webminer Monero (XMR) Address
-
 838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
+
+Buy me an Coffee
+https://www.buymeacoffee.com/PiTi
+
+Binance Trading
+https://www.binance.com/de/register?ref=40889461
 «------------------------------------------------------------------------------------------------------------------------------------»
