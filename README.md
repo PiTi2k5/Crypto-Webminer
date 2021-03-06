@@ -6,12 +6,52 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 - Change Algo|Variant
 - Change Password
 
+#### LiveTest - https://www.donate.crypto-webminer.com/donate.html
+
+#### LiveTest CustomPools with CN Heavy - https://www.custom.crypto-webminer.com/custom.html
+
+#### Mining App for Android, iOS, Win UWP<br> 
+Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.cryptonight.apk <br> 
+iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8<br> 
+Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
+
 <br><br> 
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
 <br><br> 
 Join Discord Chat
 https://discord.gg/nnARdpc
-  
-<br><br> 
-We take a 1% developer fee
+
+We take a 1% developer fee<br><br> <br><br> 
+Key Data:
+
+• The world only solution for webmining CN-Heavy and his variants like XHV Heaven and BitTube (CN-Saber Algo) | most profitable right now<br>
+• Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa | Argon2id - ChukwaV2<br>
+• Website monetization alternative instead of annoying ads e.g. popup | popunder | fullscreen<br>
+• UI webmining and mobile mining<br>
+• Easy to use: No installation required, paste in your wallet and start webmining today<br>
+• Easy integration script for website monetization<br>
+• Mining pool is free to choice<br>
+• Auto Algo Switch Feature: The most profitable algo will be mined automatically and you get payouts in Monero (XMR) ~ 30-50% more profitable instead of pure coin webmining<br>
+• Helpfully support via Discord and Email<br><br> <br><br>
+
+## Support my work by Donate
+«------------------------------------------------------------------------------------------------------------------------------------»
+
+Cryptocurrency Webminer
+
+https://www.crypto-webminer.com/
+
+Crypto Webminer Bitcoin (BTC) Address<br>
+3FMScNyRqJHjiL72oj2AW9D95jdNRFzTWq
+
+Crypto Webminer Monero (XMR) Address<br>
+838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
+
+Buy me an Coffee
+https://www.buymeacoffee.com/PiTi
+
+Binance Trading
+https://www.binance.com/de/register?ref=40889461
+«------------------------------------------------------------------------------------------------------------------------------------»
+
