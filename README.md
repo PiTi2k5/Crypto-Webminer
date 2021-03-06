@@ -107,10 +107,10 @@ Cryptocurrency Webminer
 
 https://www.crypto-webminer.com/
 
-Crypto Webminer Bitcoin (BTC) Address
+Crypto Webminer Bitcoin (BTC) Address<br>
 3FMScNyRqJHjiL72oj2AW9D95jdNRFzTWq
 
-Crypto Webminer Monero (XMR) Address
+Crypto Webminer Monero (XMR) Address<br>
 838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
 
 Buy me an Coffee
