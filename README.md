@@ -11,6 +11,9 @@ Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.crypton
 iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8<br> 
 Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 
+#### Important
+Information for all miners: Please use a frontend solution for your 100+ workernames with same wallet like database, json and pool api for calculating rewards (for e.g. self hosted webminer UI Service / Integration with dynamic workernames where you pay your users and so on)...every samewallet.differentworkername (or different passwords) is a single connection to the mining pool and will not be bundled via backend --> You produce to much workload for the mining pool and can result with a wallet ban from me or the mining pool. If you use some workernames/passwords with your same wallet all is fine
+
 
 #### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
 
