@@ -43,7 +43,7 @@ Cryptocurrency Webminer
 https://www.crypto-webminer.com/
 
 Crypto Webminer Bitcoin (BTC) Address<br>
-3FMScNyRqJHjiL72oj2AW9D95jdNRFzTWq
+39Ym7nhESgVrTdd3nvQVncc2pD69erPjxk
 
 Crypto Webminer Monero (XMR) Address<br>
 838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
