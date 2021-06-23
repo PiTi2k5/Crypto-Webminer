@@ -1,6 +1,6 @@
 Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Custom Pool Support - Mining in your Browser
 
-#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) Coins
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Cryptonight-ZLS | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) Coins
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
@@ -29,6 +29,10 @@ Information for all miners: Please use a own custom frontend solution for your 1
 #### Examples: CN V8 Reverse Waltz Coins (Graft) need ?algo=cn/rwz<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/rwz?jason=Your_Favorite_Pool:PortNr" > </script>
+```
+#### Examples: CN | ZLS Coins need ?algo=cn/zls<br> 
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/zls?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
 #### Examples: CN UPX2 Coins (Uplexa) need ?algo=cn/upx<br> 
 ```sh
