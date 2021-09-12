@@ -26,7 +26,7 @@ Information for all miners: Please use a own custom frontend solution for your 1
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-#### Examples: CN V8 Reverse Waltz Coins (Graft) need ?algo=cn/rwz<br> 
+#### Examples: CN V8 Reverse Waltz Coins need ?algo=cn/rwz<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/rwz?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
