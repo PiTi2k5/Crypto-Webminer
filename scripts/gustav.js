@@ -60,38 +60,38 @@ $(function() {
     clearInterval(statuss);
     clearInterval(hashingChart);
   };
-  
+ 
+  //Check the threads of CPU
+  let logicalProcessorCount = navigator.hardwareConcurrency;
+  var maxThreadsCount = parseInt(logicalProcessorCount);
+  //Add Threads	
   $('#thread-add').click(function() {
+    //Enable + if less than available CPU threads	  
+    if(threads < maxThreadsCount){
     threads++;
-    $('#threads').text(threads);
-                /* if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
-		{
-			
-		}
-		else
-		{
-			deleteAllWorkers(); addWorkers(threads);
-		} */
-	        //Temp fix for iOS no longer needed
+    $('#threads').val(threads);
+    document.getElementById("thread-add").disabled = false;
 	  deleteAllWorkers(); addWorkers(threads);
-  });
-
-  $('#thread-remove').click(function() {
-    if (threads > 1) {
-      threads--;
-      $('#threads').text(threads);
-		/* if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
-		{
-			
-		}
-		else
-		{
-			removeWorker();
-		} */
-	        //Temp fix for iOS no longer needed
-	    removeWorker();
+    }
+    //Disable + if hits the available CPU threads		  
+    else if(threads == maxThreadsCount){
+      document.getElementById("thread-add").disabled = true;
     }
   });
+ //Remove Threads
+ $('#thread-remove').click(function() {
+    //Enable - if greater than 1
+    if (threads > 1) {
+      threads--;
+      $('#threads').val(threads);
+      document.getElementById("thread-remove").disabled = false;
+	    removeWorker();
+    }//Disable - if greater hits 1
+    else if(threads == maxThreadsCount){
+      document.getElementById("thread-remove").disabled = true;
+    }    
+  });
+	
 
   $("#start").click(function() {	  
    if ($("#start").text() === "Start") 
