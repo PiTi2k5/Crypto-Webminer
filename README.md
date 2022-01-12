@@ -18,7 +18,10 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 <br><br> 
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
-<br><br> 
+<br><br>
+You need a Crypto Creditcard? Join Ledgers waitlist!
+https://bit.ly/3I0Glti
+<br><br>
 Join Discord Chat
 https://discord.gg/nnARdpc
 
