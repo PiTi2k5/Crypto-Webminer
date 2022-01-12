@@ -89,7 +89,10 @@ Information for all miners: Please use a own custom frontend solution for your 1
 <br><br> 
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
-<br><br> 
+<br><br>
+You need a Crypto Creditcard? Join Ledgers waitlist!
+https://bit.ly/3I0Glti
+<br><br>
 Join Discord Chat
 https://discord.gg/nnARdpc
   
