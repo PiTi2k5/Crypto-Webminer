@@ -15,10 +15,11 @@ Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 Information for all miners: Please use a own custom frontend solution for your 100+ workernames with same wallet like database, json and pool api for calculating rewards (for e.g. self hosted webminer UI Service / Integration with dynamic workernames where you pay your users and so on)...every samewallet.differentworkername (or different passwords) is a single connection to the mining pool and will not be bundled via backend --> You produce to much workload for the mining pool and can result with a wallet ban from me or the mining pool. If you use "some" different workernames/passwords with your same wallet all is fine, same as samewallet.sameworkername/samepassword with high count of devices :)
 
 
-#### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr
+#### Simple Pool change: ?jason=Your_Favorite_Pool:PortNr<br>
 
+#### Edit the index.html and add your favorite coin/algo<br>
 
-#### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv/Argon2id-Chukwa/Argon2id-Chukwav2) <br> need ?algo=cn/r<br> 
+#### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv/Argon2id-Chukwa/Argon2id-Chukwav2)<br> need ?algo=cn/r<br>
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10008" > </script>
 ```
