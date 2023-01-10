@@ -129,4 +129,7 @@ https://www.buymeacoffee.com/PiTi
 
 Binance Trading
 https://www.binance.com/de/register?ref=40889461
+
+Best and safest Hardware Wallet
+https://shop.ledger.com/de?referral_code=KRRFEP01AHPS7
 «------------------------------------------------------------------------------------------------------------------------------------»
