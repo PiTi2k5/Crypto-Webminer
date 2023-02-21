@@ -43,6 +43,7 @@ $(function() {
       $('#hashes-per-second').text(hashesPerSecond);
       $('#accepted-shares').text(totalHashes2 +' | '+ acceptedHashes);
       $('#threads').text(threads);
+      $('#algo').text(job.algo+' | '+job.variant);
     }, 1000);
 
     hashingChart = setInterval(function() {
