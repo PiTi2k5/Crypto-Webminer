@@ -9,12 +9,9 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
-#### LiveTest CustomPools with CN Heavy - https://www.custom.crypto-webminer.com/custom.html
-
 #### Mining App for Android, iOS, Win UWP<br> 
 Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.cryptonight.apk <br> 
 iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8<br> 
-Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
 
 #### Important
 Information for all miners: Please use a own custom frontend solution for your 100+ workernames with same wallet like database, json and pool api for calculating rewards (for e.g. self hosted webminer UI Service / Integration with dynamic workernames where you pay your users and so on)...every samewallet.differentworkername (or different passwords) is a single connection to the mining pool and will not be bundled via backend --> You produce to much workload for the mining pool and can result with a wallet ban from me or the mining pool. If you use "some" different workernames/passwords with your same wallet all is fine, same as samewallet.sameworkername/samepassword with high count of devices :)
@@ -96,9 +93,10 @@ Information for all miners: Please use a own custom frontend solution for your 1
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
 <br><br>
-You need a Crypto Creditcard? Join Ledgers waitlist!
-https://bit.ly/3I0Glti
-<br><br>
+<br>
+You want trading or need a depot for XMR, Join Binance! https://accounts.binance.com/en/register?ref=40889461<br>
+Join Ledgers waitlist for a prepaid creditcard for cryptos! https://bit.ly/3I0Glti
+<br>
 Join Discord Chat
 https://discord.gg/nnARdpc
   
