@@ -13,8 +13,6 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
-#### LiveTest CustomPools with CN Heavy - https://www.custom.crypto-webminer.com/custom.html
-
 #### Mining App for Android, iOS, Win UWP<br> 
 Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.cryptonight.apk <br> 
 iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8<br> 
