@@ -93,10 +93,7 @@ Information for all miners: Please use a own custom frontend solution for your 1
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
 <br><br>
-<br>
-You want trading or need a depot for XMR, Join Binance! https://accounts.binance.com/en/register?ref=40889461<br>
-Join Ledgers waitlist for a prepaid creditcard for cryptos! https://bit.ly/3I0Glti
-<br>
+
 Join Discord Chat
 https://discord.gg/nnARdpc
   
@@ -130,8 +127,11 @@ Crypto Webminer Monero (XMR) Address<br>
 Buy me an Coffee
 https://www.buymeacoffee.com/PiTi
 
-Binance Trading
+Binance Trading - You want trading or need a depot for XMR, Join Binance!
 https://www.binance.com/de/register?ref=40889461
+
+Get Ledgers prepaid creditcard for cryptos! 
+https://bit.ly/3I0Glti
 
 Best and safest Hardware Wallet
 https://shop.ledger.com/de?referral_code=KRRFEP01AHPS7
