@@ -21,10 +21,8 @@ iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
 <br><br>
-You need a Crypto Creditcard or you want trading? <br>
-https://accounts.binance.com/en/register?ref=40889461<br>
-Join Ledgers waitlist for a prepaid creditcard for cryptos!
-https://bit.ly/3I0Glti
+You want trading or need a depot for XMR, Join Binance! https://accounts.binance.com/en/register?ref=40889461<br>
+Join Ledgers waitlist for a prepaid creditcard for cryptos! https://bit.ly/3I0Glti
 <br><br>
 Join Discord Chat
 https://discord.gg/nnARdpc
