@@ -15,14 +15,15 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 
 #### Mining App for Android, iOS, Win UWP<br> 
 Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.cryptonight.apk <br> 
-iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8<br> 
-Win UWP: https://www.microsoft.com/store/apps/9NQ95K22H2ZB?ocid=badge
+iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8<br>
 
 <br><br> 
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
 <br><br>
-You need a Crypto Creditcard? Join Ledgers waitlist!
+You need a Crypto Creditcard or you want trading? <br>
+https://accounts.binance.com/en/register?ref=40889461<br>
+Join Ledgers waitlist for a prepaid creditcard for cryptos!
 https://bit.ly/3I0Glti
 <br><br>
 Join Discord Chat
