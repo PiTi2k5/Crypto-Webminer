@@ -17,7 +17,6 @@ Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseC
 Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.cryptonight.apk <br> 
 iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8<br>
 
-<br> 
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
 <br>
