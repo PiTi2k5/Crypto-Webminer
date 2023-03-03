@@ -26,6 +26,7 @@ Join Ledgers waitlist for a prepaid creditcard for cryptos! https://bit.ly/3I0Gl
 Join Discord Chat
 https://discord.gg/nnARdpc
 
+
 We take a 1% developer fee<br><br> <br><br> 
 Key Data:
 
