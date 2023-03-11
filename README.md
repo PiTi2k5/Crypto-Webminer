@@ -126,6 +126,8 @@ Crypto Webminer Monero (XMR) Address<br>
 
 Buy me an Coffee
 https://www.buymeacoffee.com/PiTi
+or
+[ko-fi.com/piti2k5](https://ko-fi.com/piti2k5)
 
 Binance Trading - You want trading or need a depot for XMR, Join Binance!
 https://www.binance.com/de/register?ref=40889461
