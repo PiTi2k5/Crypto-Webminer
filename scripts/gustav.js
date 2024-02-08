@@ -1,4 +1,4 @@
-// Copyright (c) 2017 - 2023 | PiTi - crypto-webminer.com
+// Copyright (c) 2017 - 2024 | PiTi - crypto-webminer.com
 $(function() {
   if(navigator.hardwareConcurrency > 1)
 	{
