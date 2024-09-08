@@ -2,8 +2,8 @@
 
 $(function() {
  
-  var wallet = "838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf";
-  var minerName = "Widget ";
+  var wallet = "nowalletinput"; //change to your wallet
+  var minerName = "Widget "; //change to your workername
   var gustav;
   var statuss;  
   var lastrate = 0;
