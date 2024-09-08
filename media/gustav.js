@@ -11,7 +11,7 @@ $(function() {
   var totalHashes2 = 0;
   var acceptedHashes = 0;
   var hashesPerSecond = 0;
-   
+
   if(navigator.hardwareConcurrency > 1)	{
 		$('#threads').text(navigator.hardwareConcurrency - 1);
 	}	else {
@@ -67,7 +67,7 @@ $(function() {
   };
     
   $('#modalImg').click(function() { 
-      modal.style.display = "block";
+      startMining();  
   });
   
   $('#thread-add').click(function() {
