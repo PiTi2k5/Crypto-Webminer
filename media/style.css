@@ -1,0 +1,84 @@
+@-webkit-keyframes fadein {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@-moz-keyframes fadein {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadein {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+body {
+	background: #161618;
+	font-family: sans-serif;
+	line-height: 1.3;
+	color: #f2f5f4;
+	font-size: 14px;
+	padding: 0;
+	margin: 16px auto;
+	width: 780px;
+}
+
+.action:hover {
+    cursor: pointer;
+}
+ 
+.help:hover {
+    cursor: help;
+}
+
+@media only screen and (max-width: 768px) {
+ .barchart {
+    display: none; 
+ }
+}
+
+.barchart {
+    border-radius: 0 20px 20px 0;
+    padding-top: 5px;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    top: 30%;
+    left: 0px;
+    box-sizing: border-box;
+    color: rgb(58, 58, 58);
+    cursor: default;
+    z-index: 10000000;
+    font: normal normal 400 normal 12px / 24px Roboto, "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif;
+}
+
+.barchart-data {
+    visibility: hidden;
+    background: #F5F5F5;
+}
+
+.barchart:hover {
+    border-radius: 0 20px 0 0;
+}
+
+.barchart:hover .barchart-data {
+    border-radius: 0 0 20px 0;
+    height: auto;
+    padding: 8px;
+    visibility: visible;
+    transition-duration: 1s;
+    background: #F5F5F5;
+    -webkit-animation: fadein 1s ;
+    -moz-animation: fadein 1s ;
+    animation: fadein 1s ;
+}
+
+.img360 {
+  -webkit-animation:spin 4s linear infinite;
+  -moz-animation:spin 4s linear infinite;
+  animation:spin 4s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
