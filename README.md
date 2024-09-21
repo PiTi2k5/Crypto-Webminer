@@ -27,10 +27,10 @@ https://discord.gg/nnARdpc
 We take a 1% developer fee<br><br> <br><br> 
 Key Data:
 
-• The world only solution for webmining Ghostrider like Raptoreum RTM | most profitable right now<br>
+• The world only solution for webmining Ghostrider like Raptoreum RTM and Kylacoin (KCN) Flex algo on moneroocean mining pool | most profitable right now<br>
 • The world only test solution for webmining native RandomX like Monero | proof of concept<br>
 • The world only solution for webmining CN-Heavy and his variants like XHV Heaven and BitTube (CN-Saber Algo)<br>
-• Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa | Argon2id - ChukwaV2 | Ghostrider (Raptoreum RTM)<br>
+• Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa | Argon2id - ChukwaV2 | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex<br>
 • Website monetization alternative instead of annoying ads e.g. popup | popunder | fullscreen<br>
 • UI webmining and mobile mining<br>
 • Easy to use: No installation required, paste in your wallet and start webmining today<br>
