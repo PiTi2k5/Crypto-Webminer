@@ -3,9 +3,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/PiTi2k5/Crypto-Webminer?style=social)
 
 
-Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) | Custom Pool Support - Mining in your Browser
+Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex | Custom Pool Support - Mining in your Browser
 
-#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Cryptonight-ZLS | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) Coins<br>
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Cryptonight-ZLS | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex Coins<br>
 
 - Simple Pool change with UI
 - Change Algo|Variant
