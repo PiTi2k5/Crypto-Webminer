@@ -3,9 +3,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/PiTi2k5/Crypto-Webminer?style=social)
 
 
-Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex | Custom Pool Support - Mining in your Browser
+Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) or other coins | Kylacoin (KCN) Flex or other coins | Minotaurx | x16RT | Allium | CPUPOWER | Custom Pool Support - Mining in your Browser
 
-#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Cryptonight-ZLS | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex Coins
+#### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Cryptonight-ZLS | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) or other Coins | Kylacoin (KCN) Flex or other Coins | Minotaurx Coins | x16RT Coins | Allium Coins | CPUPOWER Coins
 
 #### LiveTest - https://www.donate.crypto-webminer.com/donate.html
 
@@ -23,7 +23,7 @@ Information for all miners: Please use a own custom frontend solution for your 1
 
 #### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv/Argon2id-Chukwa/Argon2id-Chukwav2/Ghostrider/flex)<br> need ?algo=cn/r<br>
 ```sh
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10128" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=gulf.moneroocean.stream:10004" > </script>
 ```
 #### Examples: CN R Coins (Italocoin, Lethean, Sumokoin) need ?algo=cn/r<br> 
 ```sh
@@ -93,6 +93,36 @@ Information for all miners: Please use a own custom frontend solution for your 1
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=rx/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
+#### Examples: Minotaurx Coins - need ?algo=minotaurx<br> 
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=minotaurx?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=minotaurx?jason=minotaurx.eu.mine.zergpool.com:7019" > </script>
+```
+#### Examples: Ghostrider Native Coins - need ?algo=ghostrider/native - dont use it on moneroocean or c3pool<br> 
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=ghostrider/native?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=ghostrider/native?jason=ghostrider.eu.mine.zergpool.com:5354" > </script>
+```
+#### Examples: Flex Native Coins - need ?algo=flex/native - dont use it on moneroocean or c3pool<br> 
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=flex/native?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=flex/native?jason=flex.eu.mine.zergpool.com:6435" > </script>
+```
+#### Examples: x16RT Coins - need ?algo=x16rt<br> 
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=x16rt?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=x16rt?jason=x16rt.eu.mine.zergpool.com:3696" > </script>
+```
+#### Examples: Allium Coins - need ?algo=allium<br> 
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=allium?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=allium?jason=allium.eu.mine.zergpool.com:6433" > </script>
+```
+#### Examples: CPUPOWER Coins - need ?algo=cpupower<br> 
+```sh
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cpupower?jason=Your_Favorite_Pool:PortNr" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cpupower?jason=cpupower.eu.mine.zergpool.com:4250" > </script>
+```
 <br><br> 
 Or use our integration for websites & blogs
 https://www.crypto-webminer.com/integrate.html
@@ -105,10 +135,10 @@ https://discord.gg/nnARdpc
 We take a 1% developer fee<br><br> <br><br> 
 Key Data:
 
-• The world only solution for webmining Ghostrider like Raptoreum RTM and Kylacoin (KCN) Flex algo on moneroocean mining pool | most profitable right now<br>
+• The world only solution for webmining Ghostrider and Flex like Raptoreum RTM and Kylacoin (KCN) Flex algo on moneroocean mining pool | most profitable right now and native mining pools like zergpool or zpool<br>
 • The world only test solution for webmining native RandomX like Monero | proof of concept<br>
 • The world only solution for webmining CN-Heavy and his variants like XHV Heaven and BitTube (CN-Saber Algo)<br>
-• Possible Cryptonight Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa | Argon2id - ChukwaV2 | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex<br>
+• Possible Algos: Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa | Argon2id - ChukwaV2 | Ghostrider (Raptoreum RTM) and other | Kylacoin (KCN) Flex and other | Minotaurx | x16RT | Allium | CPUPOWER<br>
 • Website monetization alternative instead of annoying ads e.g. popup | popunder | fullscreen<br>
 • UI webmining and mobile mining<br>
 • Easy to use: No installation required, paste in your wallet and start webmining today<br>
