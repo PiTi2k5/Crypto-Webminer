@@ -154,6 +154,11 @@ Cryptocurrency Webminer
 
 https://www.crypto-webminer.com/
 
+<p><a href="https://www.facebook.com/cryptowebminer">Facebook</a></p>
+<p><a href="https://www.instagram.com/piti2k5">Instagram</a></p>
+<p><a href="https://twitter.com/piti2k5">Twitter</a></p>
+<p><a href="https://www.youtube.com/@cryptowebminer">Youtube</a></p>
+
 Crypto Webminer Bitcoin (BTC) Address<br>
 39Ym7nhESgVrTdd3nvQVncc2pD69erPjxk
 
