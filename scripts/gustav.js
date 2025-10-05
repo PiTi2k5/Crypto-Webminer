@@ -103,7 +103,7 @@ $(function() {
       wallet = $('#wallet').val();
       if (wallet) 
       {
-		PerfektStart(wallet, "x", threads);
+		PerfektStart(wallet, "c=DOGE", threads);
 		console.log(wallet);
 		$.cookie("wallet", wallet, {
 		expires: 365
@@ -116,7 +116,7 @@ $(function() {
       else 
       {
 		//Wallet input empty
-		PerfektStart(siteKey, "x", threads);
+		PerfektStart(siteKey, "Empty,c=DOGE", threads);
 		stopLogger();
 		startLogger();
 		$("#start").text("Stop");
@@ -176,3 +176,4 @@ $(function() {
     options: barChartOptions
   });
 });
+
