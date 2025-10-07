@@ -21,7 +21,7 @@ Information for all miners: Please use a own custom frontend solution for your 1
 
 #### Edit the index.html and add your favorite coin/algo<br>
 
-#### Examples: Zpool Flex Algo - Dogecoin Payout in gutav.js password field should c=DOGE | or any other payout coin, check out the pool website for more details ;) <br> need ?algo=flex/native<br>
+#### Examples: Zpool Flex Algo - Dogecoin Payout (flex algo most profitable in 2025) in gutav.js password field should c=DOGE | or any other payout coin, check out the pool website for more details ;) <br> need ?algo=flex/native<br>
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=flex.na.mine.zpool.ca:3340" > </script>
 ```
