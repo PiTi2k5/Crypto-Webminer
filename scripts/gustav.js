@@ -1,6 +1,5 @@
-// Copyright (c) 2017 - 2024 | crypto-webminer.com
 $(function() {
-  if(navigator.hardwareConcurrency > 1)
+	if(navigator.hardwareConcurrency > 1)
 	{
 		$('#threads').text(navigator.hardwareConcurrency - 1);
 	}
@@ -8,15 +7,13 @@ $(function() {
 	{
 		$('#threads').text(navigator.hardwareConcurrency);
 	}
+  
   var threads = $('#threads').text();
   var gustav;
   var wallet;
   var statuss;
-  var barChart;
-  var barChartCanvas = $("#barchart-canvas");
   var siteKey = "nowalletinput";
   var hashingChart;
-  var charts = [barChartCanvas];
   var selectedChart = 0;
   var lastrate = 0;
   var totalHashes = 0;
@@ -41,139 +38,155 @@ $(function() {
 	  totalhashes = 0;
       acceptedHashes = GetAcceptedHashes();
       $('#hashes-per-second').text(hashesPerSecond);
-      $('#accepted-shares').text(totalHashes2 +' | '+ acceptedHashes);
+      $('#accepted-shares').text(acceptedHashes);
+	  $('#total-shares').text(totalHashes2);
       $('#threads').text(threads);
-      if(job !== null)
+	  if(job !== null)
 	  {
 		$('#algo').text(job.algo+' | '+job.variant);
 	  }
-    }, 1000);
-
-    hashingChart = setInterval(function() {
-      if (barChart.data.datasets[0].data.length > 25) {
-        barChart.data.datasets[0].data.splice(0, 1);
-        barChart.data.labels.splice(0, 1);
-      }
-      barChart.data.datasets[0].data.push(hashesPerSecond);
-      barChart.data.labels.push("");
-      barChart.update();
     }, 1000);
   };
 
   function stopLogger() {
     clearInterval(statuss);
-    clearInterval(hashingChart);
   };
   
   $('#thread-add').click(function() {
     threads++;
     $('#threads').text(threads);
-                /* if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
-		{
-			
-		}
-		else
-		{
-			deleteAllWorkers(); addWorkers(threads);
-		} */
-	        //Temp fix for iOS no longer needed
-	  deleteAllWorkers(); addWorkers(threads);
+        deleteAllWorkers(); addWorkers(threads);	
   });
 
   $('#thread-remove').click(function() {
     if (threads > 1) {
       threads--;
       $('#threads').text(threads);
-		/* if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i))
-		{
-			
-		}
-		else
-		{
-			removeWorker();
-		} */
-	        //Temp fix for iOS no longer needed
-	    removeWorker();
+		removeWorker();
     }
   });
 
   $("#start").click(function() {	  
-   if ($("#start").text() === "Start") 
-   {
+   if ($("#start").text() === "Start") {
       wallet = $('#wallet').val();
-      if (wallet) 
-      {
+      if (wallet) {
 		PerfektStart(wallet, "c=DOGE", threads);
-		console.log(wallet);
+		//console.log(wallet);
 		$.cookie("wallet", wallet, {
 		expires: 365
 		});
-	        stopLogger();
-                startLogger();
-                $("#start").text("Stop");
-	        $('#wallet').prop("disabled", true);
+	  stopLogger();
+      startLogger();
+      $("#start").text("Stop");
+	  $('#wallet').prop("disabled", true);
       } 
-      else 
-      {
-		//Wallet input empty
-		PerfektStart(siteKey, "Empty,c=DOGE", threads);
+	  else 
+	  {
+        PerfektStart(siteKey, "c=DOGE", threads);
 		stopLogger();
 		startLogger();
 		$("#start").text("Stop");
       }
-   } 
-   else 
-   {
+    } else {
       stopMining();
       stopLogger();
       $('#wallet').prop("disabled", false);
       $("#start").text("Start");
       $('#hashes-per-second').text("0");
-	  $('#accepted-shares').text("0" +' | '+"0");
+	  $('#accepted-shares').text("0");
+	  $('#total-shares').text("0");
 	  location.reload();
-   }
- });
-
-  $('#autoThreads').click(function() {
-    if (gustav) {
-      gustav.setAutoThreadsEnabled(!gustav.getAutoThreadsEnabled());
     }
   });
+  
+  //NEW UI
+  var ui = { chartCanvas: document.getElementById('hashrateChartNew'),
+             hashrate: document.getElementById('hashrate'),
+             sharesAccepted: document.getElementById('accepted-shares'),
+             statusBadge: document.getElementById('statusBadge'),
+             statusText: document.getElementById('statusText') };
+  function fmtHs(v){ if(!isFinite(v))return '–'; if(v>=1e6)return (v/1e6).toFixed(2)+' MH/s';
+    if(v>=1e3)return (v/1e3).toFixed(2)+' kH/s'; return v.toFixed(2)+' H/s'; }
+  function setStatus(s){ if(!ui.statusBadge)return;
+    ui.statusText.textContent=s;
+    var el=ui.statusBadge; el.style.boxShadow=(s==='running')?
+      '0 0 0 1px rgba(34,197,94,.4) inset,0 0 18px rgba(34,197,94,.25)':
+      '0 0 0 1px rgba(250,204,21,.35) inset,0 0 18px rgba(250,204,21,.2)'; }
 
-  var barChartOptions = {
-    label: 'Hashes',
-    elements: {
-      line: {
-        tension: 0, // disables bezier curves
-      }
-    },
-    animation: {
-      duration: 0, // general animation time
-    },
-    responsiveAnimationDuration: 0,
-    scales: {
-      yAxes: [{
-        ticks: {
-          max: 500,
-          min: 0
-        }
-      }]
-    }
-  };
+  var chart, series=[], labels=[];
+  function initChart(){
+  if(!ui.chartCanvas || typeof Chart === 'undefined') return;
 
-  var barChartData = {
-    labels: [],
-    datasets: [{
-      label: "Hashes/s",
-      backgroundColor: "darkcyan",
-      data: []
-    }],
-  };
-
-  barChart = new Chart(barChartCanvas, {
+  chart = new Chart(ui.chartCanvas, {
     type: 'line',
-    data: barChartData,
-    options: barChartOptions
+    data: {
+      labels: labels,
+      datasets: [{
+        label: 'H/s',
+        data: series,
+        tension: 0.35,
+        fill: false,
+        pointRadius: 0,
+        borderWidth: 2,
+        borderColor: 'darkcyan'
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      animation: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { enabled: true }
+      },
+      scales: {
+        x: {
+          grid: { display: false },
+          ticks: { display: false }
+        },
+        y: {
+          beginAtZero: true,   // nie unter 0
+          min: 0,
+          suggestedMin: 0,
+          suggestedMax: 1000,  // Start-Range, wird dynamisch erhöht
+          grid: { color: 'rgba(148,163,184,.12)', borderDash: [3,3] },
+          ticks: {
+            precision: 0,
+            color: 'rgba(203,213,225,.8)',
+            callback: function(v){
+              if (v >= 1e6) return (v/1e6) + 'M';
+              if (v >= 1e3) return (v/1e3) + 'k';
+              return v;
+            }
+          }
+        }
+      }
+    }
   });
-});
+}
 
+  function pushHs(v){
+  if(!chart || !isFinite(v)) return;
+  if(series.length >= 120){ series.shift(); labels.shift(); }
+  series.push(v);
+  labels.push(labels.length ? labels[labels.length-1] + 1 : 1);
+
+  var top = 1000;
+  if (v > top) top = Math.ceil(v * 1.2);    // ~20% Headroom
+  chart.options.scales.y.suggestedMax = top;
+
+  chart.update('none');
+}
+
+  var dom={hps:document.getElementById('hashes-per-second'),
+           acc:document.getElementById('accepted-shares'),
+           algo:document.getElementById('algo')};
+  var start=Date.now(),isMining=false,idleTicks=0,HR_THRESHOLD=0.1,IDLE_GRACE=3;
+  initChart();
+  setInterval(function(){
+    var hr=Number(dom.hps&&dom.hps.textContent)||0;
+    if(hr>HR_THRESHOLD){isMining=true;idleTicks=0;}else{idleTicks++;if(idleTicks>IDLE_GRACE)isMining=false;}
+    setStatus(isMining?'running':'idle');
+    if(isMining&&hr>0)pushHs(hr);
+  },1000);  
+});
