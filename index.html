@@ -1,87 +1,108 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-<meta charset="utf-8">
-	
-<meta name="description" content="Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Cryptonight-UPX | Cryptonight Reverse Waltz | Cryptonight-BitTube |  Argon2id - Chukwa | Argon2id - ChukwaV2 | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex | Custom Pool Support - Mining in your Browser ">
-<meta name="keywords" content="Crypto Miner, Crypto Webminer, Monero Webmining, JavaScript miner, Cryptonight Webmining | Cryptonight-Lite Webmining | Cryptonight-Fast Webmining | Cryptonight-Fast2 Webmining | Cryptonight-Half Webmining | Argon2id - Chukwa | Cryptonight-Heavy Webmining | Cryptonight-BitTube Webmining, Cryptonight-Uplexa, Custom Pool Support Webmining Cryptonight, Cryptonight, Ghostrider, Raptoreum, Kylacoin (KCN) Flex algo Webminer for Cryptocurrency">
-<meta name="author" content="crypto-webminer.com">
-<meta name="robots" content="noindex, nofollow">
-
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
+	<meta name="description" content="Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Cryptonight-UPX | Cryptonight Reverse Waltz | Cryptonight-BitTube |  Argon2id - Chukwa | Argon2id - ChukwaV2 | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex | Custom Pool Support - Mining in your Browser ">
+	<meta name="keywords" content="Crypto Miner, Crypto Webminer, Monero Webmining, JavaScript miner, Cryptonight Webmining | Cryptonight-Lite Webmining | Cryptonight-Fast Webmining | Cryptonight-Fast2 Webmining | Cryptonight-Half Webmining | Argon2id - Chukwa | Cryptonight-Heavy Webmining | Cryptonight-BitTube Webmining, Cryptonight-Uplexa, Custom Pool Support Webmining Cryptonight, Cryptonight, Ghostrider, Raptoreum, Kylacoin (KCN) Flex algo Webminer for Cryptocurrency">
+	<meta name="author"  content="Crypto Webminer">
+	<meta name="robots" content="noindex, nofollow">
 <title>Crypto Webminer - Mining in your Browser</title>
-<script src="scripts/jquery-3.2.1.min.js"></script>
-	
-<!-- Wallet Cookie handle -->
-<script src="scripts/jquery.cookie-1.4.1.min.js"></script>
-	
 <!-- Javascript Constructor -->
 <script src="https://easyhash.de/mmh/mmh.js?v10?perfekt=wss://?algo=flex/native?jason=flex.na.mine.zpool.ca:3340"></script>
-	
-<!-- Miner UI Controller -->
-<script src="scripts/gustav.js?v290918"></script>
-
-<!-- Styles -->
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>  
 <link rel="stylesheet" href="scripts/styles.css">
-	
-<!-- Barchart -->
-<script src="scripts/Chart.min.js"></script>
+<script src="scripts/jquery-3.2.1.min.js"></script>
+<script src="scripts/jquery.cookie-1.4.1.min.js"></script>
 </head>
+<body class="text-slate-100">
+<div class="max-w-6xl mx-auto p-4 md:p-6 space-y-6">
 
-<h2 align="center">Cryptonight mining<br> by crypto-webminer.com</h2>
-<div class="row" align="center">
-    <div class="box">
-        <h3>hashes/s</h3>
-        <h2 id="hashes-per-second">0</h2>
-    </div>
-    <div class="box">
-        <h3>threads</h3>
-        <h2>
-			<span id="threads">2</span>
-			<span id="thread-add" class="action"> + </span>
-			<span class="divide"> / </span>
-			<span id="thread-remove" class="action"> - </span>
-		</h2>
-    </div>
-</div>
+	<header class="text-center space-y-1">
+		<h1 class="text-2xl md:text-3xl font-semibold neon">Cryptonight mining and his variants</h1>
+		<p class="text-slate-400 text-xs">by <a class="underline" href="https://www.crypto-webminer.com">crypto-webminer.com</a></p>
+	</header>
+		
+	<section class="grid md:grid-cols-3 gap-4">
+		<div class="glass grad-border rounded-2xl p-4 center-card">
+			<div class="text-center text-slate-400 text-xs mb-1">Hashes/s</div>
+			<div class="text-center text-2xl font-semibold mono" id="hashes-per-second">0</div>
+		</div>
 
-<div class="row" align="center">
-    <div class="box">
-        <h3> Total Hashes | Accepted Shares</h3>
-        <h2 id="accepted-shares">0</h2>
-    </div>
-    <div class="box">
-        <h3> Current Algo</h3>
-        <h2 id="algo">XHV</h2>
-    </div>
-</div>
-<div align="center">
-    <p id="invalid" style="color:red;"></p>
-</div>
-<div class="row">
-    <input class="text" type="text" id="wallet" placeholder="Enter your Public Wallet Address and Press Start">
-</div>
+		<div class="glass grad-border rounded-2xl p-4 center-card">
+		<div class="text-center text-slate-400 text-xs mb-1">Threads</div>
+			<div class="text-2xl font-semibold mono flex items-center justify-center gap-3">
+				<span id="threads">2</span>
+				<div class="flex items-center gap-2 text-sm">
+					<button id="thread-add" class="px-2 py-1 rounded-md bg-white/10 hover:bg-white/20 transition">+</button>
+					<span class="text-slate-500">/</span>
+					<button id="thread-remove" class="px-2 py-1 rounded-md bg-white/10 hover:bg-white/20 transition">-</button>
+				</div>
+			</div>
+		</div>
+		<div class="glass grad-border rounded-2xl p-4 center-card">
+			<div class="text-center text-slate-400 text-xs mb-1 ">Current Algo</div>
+			<div class="text-center text-2xl font-semibold" id="algo">Flex</div>
+		</div>
+	 </section>
 
-<div class="row">
-    <canvas id="barchart-canvas" class="stats" width="100%" height="27%"></canvas>
-</div>
+	<section class="glass grad-border rounded-2xl p-4">
+		<div class="flex flex-col md:flex-row gap-3 items-stretch">
+			<input id="wallet" type="text" class="flex-1 rounded-lg bg-white/10 focus:bg-white/15 outline-none px-3 py-2 placeholder:text-slate-400" style="text-align:center;" placeholder="Enter your Wallet Address and Press Start"></input>
+			<button id="start" class="rounded-lg bg-sky-500/80 hover:bg-sky-400 px-4 py-2 font-medium">Start</button>
+		</div>
+		<p class="text-center text-xs text-slate-400 mt-2">DDOS Protection | Mining starts in 2–5 sec</p>
+	</section>
 
-<button id="start">Start</button>
-	
-<!-- //Keep and respect copyright -->
-<p align="center">© 2017 - 2025 | <a href="https://www.crypto-webminer.com">crypto-webminer.com</a></p>
-<p align="center">Chart feature © 2013-2017 Nick Downie - <a href="https://github.com/chartjs/Chart.js/blob/master/LICENSE.md">Released under the MIT license</a></p>
-	
-<div align="center">
-<form action="https://www.crypto-webminer.com/miningguides.html" target="_blank"><td><input type="submit" value="You need a helping guide?"/></td></form>
+	<section class="grid grid-cols-1 xl:grid-cols-3 gap-6">
+		<div class="xl:col-span-2 glass grad-border rounded-2xl p-4">
+			<div class="flex items-center justify-between mb-3">
+				<h2 class="font-semibold">Live Hashrate</h2>
+			</div>
+
+			<div class="relative h-[240px] md:h-[300px]">
+				<canvas id="hashrateChartNew" class="w-full h-full"></canvas>
+			</div>
+
+			<div id="legacy-canvas" style="display:none">
+				<canvas id="barchart-canvas"></canvas>
+			</div>
+		</div>
+
+		<div class="glass grad-border rounded-2xl p-4">
+			<h2 class="font-semibold mb-3">Stats</h2>
+			<dl class="text-sm grid grid-cols-3 gap-y-2">
+				<dt class="text-slate-400">Total Hashes:</dt><dd class="col-span-2 mono" id="total-shares">0</dd>
+				<dt class="text-slate-400">Accepted Shares:</dt><dd class="col-span-2 mono" id="accepted-shares">0</dd>
+				<dt class="text-slate-400">Status</dt>
+				<dd class="col-span-2">
+					<span id="statusBadge" class="badge glass text-xs">Status: <span class="opacity-80" id="statusText">idle</span></span>
+				</dd>
+			</dl>
+		</div>
+	</section>
+
+	<section class="text-center text-xs space-y-2 text-slate-400">
+		<p>© 2017 - 2025 Crypto Webminer <a class="underline" href="https://www.crypto-webminer.com">crypto-webminer.com</a></p>
+		<p>ChartFeature - Copyright (c) 2014-2024 Chart.js Contributors – <a class="underline" href="https://github.com/chartjs/Chart.js/blob/master/LICENSE.md" target="_blank">MIT license</a></p>
+		<div class="flex flex-col md:flex-row gap-2 justify-center">
+			<form action="https://accounts.binance.com/register?ref=40889461"><input type="submit" value="New on Flex Algo with DOGECOIN Payout mining? Use a DOGECOIN Binance wallet" class="px-3 py-2 rounded bg-white/10 hover:bg-white/20 cursor-pointer"/></form>
+			<form action="https://www.crypto-webminer.com/miningguides.html"><input type="submit" value="You need a helping guide?" class="px-3 py-2 rounded bg-white/10 hover:bg-white/20 cursor-pointer"/></form>
+			<form action="https://zpool.ca/wallet"><input type="submit" value="Check your payments" class="px-3 py-2 rounded bg-white/10 hover:bg-white/20 cursor-pointer"/></form>
+			<form action="https://www.crypto-webminer.com/integrate.html"><input type="submit" value="You are webmaster or blogger?" class="px-3 py-2 rounded bg-white/10 hover:bg-white/20 cursor-pointer"/></form>
+		 </div>
+		 <p>Earn cryptocurrencies direct in your wallet - for your website or blog visitors</p>
+		 <p>Integrate our webmining service with easy steps</p>
+		</section>
 </div>
-<div align="center">
-<form action="#" target="_blank"><td><input type="submit" value="Check your payments"/></td></form>
-</div><br>
-<div align="center">
-<form action="https://www.crypto-webminer.com/integrate.html"><td><input type="submit" value="You are webmaster or blogger?"/></td></form>
-</div>
-<div align="center">
-<p><font color="darkcyan">Earn cryptocurrencies direct in your wallet - for your website or blog visitors</font></p>
-<p><font color="darkcyan">Integrate our webmining service with easy steps</font></p>
-</div>
+  
+<!-- Chart Controller -->
+<script src="scripts/Chart.js"></script>
+<!-- Miner UI Controller -->
+<script src="scripts/gustav.js"></script>
+
+</body>
 </html>
