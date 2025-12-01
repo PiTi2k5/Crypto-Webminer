@@ -70,7 +70,7 @@ $(function() {
    if ($("#start").text() === "Start") {
       wallet = $('#wallet').val();
       if (wallet) {
-		PerfektStart(wallet, "c=DOGE", threads);
+		PerfektStart(wallet, "c=DASH", threads);
 		//console.log(wallet);
 		$.cookie("wallet", wallet, {
 		expires: 365
@@ -82,7 +82,7 @@ $(function() {
       } 
 	  else 
 	  {
-        PerfektStart(siteKey, "c=DOGE", threads);
+        PerfektStart(siteKey, "c=DASH", threads);
 		stopLogger();
 		startLogger();
 		$("#start").text("Stop");
@@ -190,3 +190,4 @@ $(function() {
     if(isMining&&hr>0)pushHs(hr);
   },1000);  
 });
+
