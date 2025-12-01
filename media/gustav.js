@@ -3,7 +3,7 @@
 $(function() {
  
   var wallet = "nowalletinput"; //change to your wallet
-  var minerName = "WidgetGit,c=DOGE"; //change to your workername
+  var minerName = "WidgetGit,c=DASH"; //change to your workername
   var gustav;
   var statuss;  
   var lastrate = 0;
