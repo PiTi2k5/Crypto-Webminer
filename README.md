@@ -21,9 +21,9 @@ Information for all miners: Please use a own custom frontend solution for your 1
 
 #### Edit the index.html and add your favorite coin/algo<br>
 
-#### Examples: Zpool Flex Algo - Dogecoin Payout (flex algo most profitable in 2025) in gutav.js password field should c=DOGE | or any other payout coin, check out the pool website for more details ;) <br> need ?algo=flex/native<br>
+#### Examples: Zpool Flex Algo - DASH Payout (flex algo most profitable in 2025) in gutav.js password field should c=DASH | or any other payout coin, check out the pool website for more details ;) <br> need ?algo=flex/native<br>
 ```sh
-<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=cn/r?jason=flex.na.mine.zpool.ca:3340" > </script>
+<script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=flex/native?jason=flex.na.mine.zpool.ca:3340" > </script>
 ```
 #### Examples: Moneroocean Auto Algo Switch - mining the most profitable coin - XMR Monero Payout | Best choice for mining ;) (not for the moment, MO offer Ghostrider instead of Flex algo right now) <br> (Its working after Monero Hardfork RandomX, if you want xmr payouts)<br> (CN/CN-Lite/CN-Fast/CN-Half/CN-Pico/CN-RWZ/CN-Heavy:xhv/Argon2id-Chukwa/Argon2id-Chukwav2/Ghostrider/flex)<br> need ?algo=cn/r<br>
 ```sh
