@@ -162,18 +162,27 @@ https://www.crypto-webminer.com/
 <p><a href="https://twitter.com/piti2k5">Twitter</a></p>
 <p><a href="https://www.youtube.com/@cryptowebminer">Youtube</a></p>
 
-Crypto Webminer Bitcoin (BTC) Address<br>
-39Ym7nhESgVrTdd3nvQVncc2pD69erPjxk
+Crypto Webminer ₿ Bitcoin (BTC) Address<br>
+39WJHsFTcwbJdZc2F4oTtynzNe2CoqQvtp
 
-Crypto Webminer Monero (XMR) Address<br>
+Crypto Webminer ⟠ Ethereum (ETH) Address<br>
+0x2b5FA1336Fa050C87179d02CaeF31340dC23B593
+
+Crypto Webminer ◎ Monero (XMR) Address<br>
 838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
 
-Binance Trading - You want trading or need a depot for XMR, Join Binance!
-https://www.binance.com/de/register?ref=40889461
+Crypto Webminer⚡DASH Address<br>
+XjDWdmxs8RaTFVELaZB6MUAHcbNEevgm8V
 
-Get Ledgers prepaid creditcard for cryptos! 
-https://bit.ly/3I0Glti
+Crypto Webminer 🐕 DOGE Address<br>
+DNshidZkJLt2FZVpGEezTnc5XKJoDCw1Me
 
-Best and safest Hardware Wallet
-https://shop.ledger.com/de?referral_code=KRRFEP01AHPS7
+Join Bitunix with your friends, experience fast and secure trading. Sign up now!
+<p><a href="https://www.bitunix.com/register?inviteCode=j4buh7">Bitunix</a></p>
+
+Get Ledgers prepaid creditcard for cryptos!
+<p><a href="https://bit.ly/3I0Glti">Ledger CL Card</a></p>
+
+Best and a safe Hardware Wallet
+<p><a href="https://shop.ledger.com/de?referral_code=KRRFEP01AHPS7">Ledger Hardware Wallet</a></p>
 «------------------------------------------------------------------------------------------------------------------------------------»
