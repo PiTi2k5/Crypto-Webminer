@@ -177,12 +177,12 @@ XjDWdmxs8RaTFVELaZB6MUAHcbNEevgm8V
 Crypto Webminer 🐕 DOGE Address<br>
 DNshidZkJLt2FZVpGEezTnc5XKJoDCw1Me
 
-Binance Trading - You want trading or need a depot for XMR, Join Binance!
-https://www.binance.com/de/register?ref=40889461
+Join Bitunix with your friends, experience fast and secure trading. Sign up now!
+<p><a href="https://www.bitunix.com/register?inviteCode=j4buh7">Bitunix</a></p>
 
-Get Ledgers prepaid creditcard for cryptos! 
-https://bit.ly/3I0Glti
+Get Ledgers prepaid creditcard for cryptos!
+<p><a href="https://bit.ly/3I0Glti">Ledger CL Card</a></p>
 
-Best and safest Hardware Wallet
-https://shop.ledger.com/de?referral_code=KRRFEP01AHPS7
+Best and a safe Hardware Wallet
+<p><a href="https://shop.ledger.com/de?referral_code=KRRFEP01AHPS7">Ledger Hardware Wallet</a></p>
 «------------------------------------------------------------------------------------------------------------------------------------»
