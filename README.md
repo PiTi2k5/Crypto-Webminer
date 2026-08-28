@@ -168,7 +168,7 @@ Crypto Webminer ₿ Bitcoin (BTC) Address<br>
 Crypto Webminer ⟠ Ethereum (ETH) Address<br>
 0x2b5FA1336Fa050C87179d02CaeF31340dC23B593
 
-Crypto Webminer Monero (XMR) Address<br>
+Crypto Webminer ◎ Monero (XMR) Address<br>
 838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
 
 Crypto Webminer⚡DASH Address<br>
